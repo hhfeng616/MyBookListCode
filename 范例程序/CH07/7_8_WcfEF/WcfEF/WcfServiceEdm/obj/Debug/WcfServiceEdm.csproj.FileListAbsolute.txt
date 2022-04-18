@@ -1,0 +1,19 @@
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH06\WcfEF\WcfServiceEdm\bin\WcfServiceEdm.dll.config
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH06\WcfEF\WcfServiceEdm\bin\WcfServiceEdm.dll
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH06\WcfEF\WcfServiceEdm\bin\WcfServiceEdm.pdb
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH06\WcfEF\WcfServiceEdm\bin\EntityFramework.dll
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH06\WcfEF\WcfServiceEdm\bin\EntityFramework.SqlServer.dll
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH06\WcfEF\WcfServiceEdm\bin\EntityFramework.xml
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH06\WcfEF\WcfServiceEdm\bin\EntityFramework.SqlServer.xml
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH06\WcfEF\WcfServiceEdm\obj\Debug\WcfServiceEdm.csprojResolveAssemblyReference.cache
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH06\WcfEF\WcfServiceEdm\obj\Debug\WcfServiceEdm.dll
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH06\WcfEF\WcfServiceEdm\obj\Debug\WcfServiceEdm.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WcfEF\WcfServiceEdm\bin\WcfServiceEdm.dll.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WcfEF\WcfServiceEdm\bin\WcfServiceEdm.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WcfEF\WcfServiceEdm\bin\WcfServiceEdm.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WcfEF\WcfServiceEdm\bin\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WcfEF\WcfServiceEdm\bin\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WcfEF\WcfServiceEdm\bin\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WcfEF\WcfServiceEdm\bin\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WcfEF\WcfServiceEdm\obj\Debug\WcfServiceEdm.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WcfEF\WcfServiceEdm\obj\Debug\WcfServiceEdm.pdb

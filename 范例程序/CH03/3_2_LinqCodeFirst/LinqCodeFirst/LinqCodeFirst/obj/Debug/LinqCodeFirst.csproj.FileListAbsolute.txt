@@ -1,0 +1,24 @@
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LinqCodeFirst\LinqCodeFirst\bin\Debug\LinqCodeFirst.exe.config
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LinqCodeFirst\LinqCodeFirst\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LinqCodeFirst\LinqCodeFirst\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LinqCodeFirst\LinqCodeFirst\bin\Debug\LinqCodeFirst.exe
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LinqCodeFirst\LinqCodeFirst\bin\Debug\LinqCodeFirst.pdb
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LinqCodeFirst\LinqCodeFirst\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LinqCodeFirst\LinqCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LinqCodeFirst\LinqCodeFirst\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LinqCodeFirst\LinqCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LinqCodeFirst\LinqCodeFirst\obj\Debug\LinqCodeFirst.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LinqCodeFirst\LinqCodeFirst\obj\Debug\LinqCodeFirst.exe
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LinqCodeFirst\LinqCodeFirst\obj\Debug\LinqCodeFirst.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LinqCodeFirst\LinqCodeFirst\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LinqCodeFirst\LinqCodeFirst\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LinqCodeFirst\LinqCodeFirst\bin\Debug\LinqCodeFirst.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LinqCodeFirst\LinqCodeFirst\bin\Debug\LinqCodeFirst.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LinqCodeFirst\LinqCodeFirst\bin\Debug\LinqCodeFirst.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LinqCodeFirst\LinqCodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LinqCodeFirst\LinqCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LinqCodeFirst\LinqCodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LinqCodeFirst\LinqCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LinqCodeFirst\LinqCodeFirst\obj\Debug\LinqCodeFirst.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LinqCodeFirst\LinqCodeFirst\obj\Debug\LinqCodeFirst.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LinqCodeFirst\LinqCodeFirst\obj\Debug\LinqCodeFirst.pdb

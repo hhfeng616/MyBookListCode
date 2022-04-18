@@ -1,0 +1,35 @@
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\StoredProcedureDemo\StoredProcedureDemo\bin\Debug\StoredProcedureDemo.exe.config
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\StoredProcedureDemo\StoredProcedureDemo\bin\Debug\StoredProcedureDemo.exe
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\StoredProcedureDemo\StoredProcedureDemo\bin\Debug\StoredProcedureDemo.pdb
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\StoredProcedureDemo\StoredProcedureDemo\obj\Debug\StoredProcedureDemo.exe
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\StoredProcedureDemo\StoredProcedureDemo\obj\Debug\StoredProcedureDemo.pdb
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\StoredProcedureDemo\StoredProcedureDemo\bin\Debug\KTStore.mdf
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\StoredProcedureDemo\StoredProcedureDemo\bin\Debug\KTStore_log.ldf
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\StoredProcedureDemo\StoredProcedureDemo\bin\Debug\EntityFramework.dll
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\StoredProcedureDemo\StoredProcedureDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\StoredProcedureDemo\StoredProcedureDemo\bin\Debug\EntityFramework.xml
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\StoredProcedureDemo\StoredProcedureDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\StoredProcedureDemo\StoredProcedureDemo\obj\Debug\StoredProcedureDemo.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProcedureDemo\StoredProcedureDemo\bin\Debug\StoredProcedureDemo.exe.config
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProcedureDemo\StoredProcedureDemo\obj\Debug\StoredProcedureDemo.exe
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProcedureDemo\StoredProcedureDemo\obj\Debug\StoredProcedureDemo.pdb
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProcedureDemo\StoredProcedureDemo\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProcedureDemo\StoredProcedureDemo\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProcedureDemo\StoredProcedureDemo\bin\Debug\StoredProcedureDemo.exe
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProcedureDemo\StoredProcedureDemo\bin\Debug\StoredProcedureDemo.pdb
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProcedureDemo\StoredProcedureDemo\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProcedureDemo\StoredProcedureDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProcedureDemo\StoredProcedureDemo\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProcedureDemo\StoredProcedureDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProcedureDemo\StoredProcedureDemo\obj\Debug\StoredProcedureDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProcedureDemo\StoredProcedureDemo\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProcedureDemo\StoredProcedureDemo\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProcedureDemo\StoredProcedureDemo\bin\Debug\StoredProcedureDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProcedureDemo\StoredProcedureDemo\bin\Debug\StoredProcedureDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProcedureDemo\StoredProcedureDemo\bin\Debug\StoredProcedureDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProcedureDemo\StoredProcedureDemo\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProcedureDemo\StoredProcedureDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProcedureDemo\StoredProcedureDemo\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProcedureDemo\StoredProcedureDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProcedureDemo\StoredProcedureDemo\obj\Debug\StoredProcedureDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProcedureDemo\StoredProcedureDemo\obj\Debug\StoredProcedureDemo.pdb

@@ -1,0 +1,29 @@
+D:\Book\EntityFramework\RC1\Example\CH05\LazyvsEager\LazyvsEager\bin\Debug\LazyvsEager.exe.config
+D:\Book\EntityFramework\RC1\Example\CH05\LazyvsEager\LazyvsEager\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\RC1\Example\CH05\LazyvsEager\LazyvsEager\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\RC1\Example\CH05\LazyvsEager\LazyvsEager\bin\Debug\LazyvsEager.exe
+D:\Book\EntityFramework\RC1\Example\CH05\LazyvsEager\LazyvsEager\bin\Debug\LazyvsEager.pdb
+D:\Book\EntityFramework\RC1\Example\CH05\LazyvsEager\LazyvsEager\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\RC1\Example\CH05\LazyvsEager\LazyvsEager\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\RC1\Example\CH05\LazyvsEager\LazyvsEager\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\RC1\Example\CH05\LazyvsEager\LazyvsEager\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\RC1\Example\CH05\LazyvsEager\LazyvsEager\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Book\EntityFramework\RC1\Example\CH05\LazyvsEager\LazyvsEager\obj\Debug\LazyvsEager.exe
+D:\Book\EntityFramework\RC1\Example\CH05\LazyvsEager\LazyvsEager\obj\Debug\LazyvsEager.pdb
+D:\Book\EntityFramework\RC1\Example\CH05\LazyvsEager\LazyvsEager\obj\Debug\LazyvsEager.Migrations.aaa.resources
+D:\Book\EntityFramework\RC1\Example\CH05\LazyvsEager\LazyvsEager\obj\Debug\LazyvsEager.csproj.GenerateResource.Cache
+D:\Book\EntityFramework\RC1\Example\CH05\LazyvsEager\LazyvsEager\obj\Debug\LazyvsEager.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LazyvsEager\LazyvsEager\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LazyvsEager\LazyvsEager\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LazyvsEager\LazyvsEager\bin\Debug\LazyvsEager.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LazyvsEager\LazyvsEager\bin\Debug\LazyvsEager.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LazyvsEager\LazyvsEager\bin\Debug\LazyvsEager.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LazyvsEager\LazyvsEager\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LazyvsEager\LazyvsEager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LazyvsEager\LazyvsEager\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LazyvsEager\LazyvsEager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LazyvsEager\LazyvsEager\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LazyvsEager\LazyvsEager\obj\Debug\LazyvsEager.Migrations.aaa.resources
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LazyvsEager\LazyvsEager\obj\Debug\LazyvsEager.csproj.GenerateResource.Cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LazyvsEager\LazyvsEager\obj\Debug\LazyvsEager.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LazyvsEager\LazyvsEager\obj\Debug\LazyvsEager.pdb

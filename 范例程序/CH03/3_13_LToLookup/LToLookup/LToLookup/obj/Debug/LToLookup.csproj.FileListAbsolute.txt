@@ -1,0 +1,24 @@
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LToLookup\LToLookup\bin\Debug\LToLookup.exe.config
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LToLookup\LToLookup\bin\Debug\LToLookup.exe
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LToLookup\LToLookup\bin\Debug\LToLookup.pdb
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LToLookup\LToLookup\obj\Debug\LToLookup.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LToLookup\LToLookup\obj\Debug\LToLookup.exe
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LToLookup\LToLookup\obj\Debug\LToLookup.pdb
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LToLookup\LToLookup\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LToLookup\LToLookup\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LToLookup\LToLookup\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LToLookup\LToLookup\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LToLookup\LToLookup\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LToLookup\LToLookup\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LToLookup\LToLookup\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LToLookup\LToLookup\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LToLookup\LToLookup\bin\Debug\LToLookup.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LToLookup\LToLookup\bin\Debug\LToLookup.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LToLookup\LToLookup\bin\Debug\LToLookup.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LToLookup\LToLookup\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LToLookup\LToLookup\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LToLookup\LToLookup\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LToLookup\LToLookup\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LToLookup\LToLookup\obj\Debug\LToLookup.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LToLookup\LToLookup\obj\Debug\LToLookup.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LToLookup\LToLookup\obj\Debug\LToLookup.pdb

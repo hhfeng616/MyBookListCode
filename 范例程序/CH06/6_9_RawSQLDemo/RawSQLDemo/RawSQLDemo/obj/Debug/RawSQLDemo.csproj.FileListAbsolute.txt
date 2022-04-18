@@ -1,0 +1,48 @@
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLDemo\RawSQLDemo\bin\Debug\RawSQLDemo.exe.config
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLDemo\RawSQLDemo\bin\Debug\KTStore.mdf
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLDemo\RawSQLDemo\bin\Debug\KTStore_log.ldf
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLDemo\RawSQLDemo\bin\Debug\RawSQLDemo.exe
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLDemo\RawSQLDemo\bin\Debug\RawSQLDemo.pdb
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLDemo\RawSQLDemo\bin\Debug\EntityFramework.dll
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLDemo\RawSQLDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLDemo\RawSQLDemo\bin\Debug\EntityFramework.xml
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLDemo\RawSQLDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLDemo\RawSQLDemo\obj\Debug\RawSQLDemo.csprojResolveAssemblyReference.cache
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLDemo\RawSQLDemo\obj\Debug\RawSQLDemo.exe
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLDemo\RawSQLDemo\obj\Debug\RawSQLDemo.pdb
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLDemo\RawSQLDemo\bin\Debug\RawSQLDemo.exe.config
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLDemo\RawSQLDemo\obj\Debug\RawSQLDemo.exe
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLDemo\RawSQLDemo\obj\Debug\RawSQLDemo.pdb
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLDemo\RawSQLDemo\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLDemo\RawSQLDemo\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLDemo\RawSQLDemo\bin\Debug\RawSQLDemo.exe
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLDemo\RawSQLDemo\bin\Debug\RawSQLDemo.pdb
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLDemo\RawSQLDemo\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLDemo\RawSQLDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLDemo\RawSQLDemo\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLDemo\RawSQLDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLDemo\RawSQLDemo\obj\Debug\RawSQLDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\RawSQLDemo\RawSQLDemo\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\RawSQLDemo\RawSQLDemo\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\RawSQLDemo\RawSQLDemo\bin\Debug\RawSQLDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\RawSQLDemo\RawSQLDemo\bin\Debug\RawSQLDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\RawSQLDemo\RawSQLDemo\bin\Debug\RawSQLDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\RawSQLDemo\RawSQLDemo\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\RawSQLDemo\RawSQLDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\RawSQLDemo\RawSQLDemo\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\RawSQLDemo\RawSQLDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\RawSQLDemo\RawSQLDemo\obj\Debug\RawSQLDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\RawSQLDemo\RawSQLDemo\obj\Debug\RawSQLDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\RawSQLDemo\RawSQLDemo\obj\Debug\RawSQLDemo.csprojResolveAssemblyReference.cache
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_9_RawSQLDemo\RawSQLDemo\RawSQLDemo\bin\Debug\KTStore.mdf
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_9_RawSQLDemo\RawSQLDemo\RawSQLDemo\bin\Debug\KTStore_log.ldf
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_9_RawSQLDemo\RawSQLDemo\RawSQLDemo\bin\Debug\RawSQLDemo.exe.config
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_9_RawSQLDemo\RawSQLDemo\RawSQLDemo\bin\Debug\RawSQLDemo.exe
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_9_RawSQLDemo\RawSQLDemo\RawSQLDemo\bin\Debug\RawSQLDemo.pdb
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_9_RawSQLDemo\RawSQLDemo\RawSQLDemo\bin\Debug\EntityFramework.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_9_RawSQLDemo\RawSQLDemo\RawSQLDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_9_RawSQLDemo\RawSQLDemo\RawSQLDemo\bin\Debug\EntityFramework.xml
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_9_RawSQLDemo\RawSQLDemo\RawSQLDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_9_RawSQLDemo\RawSQLDemo\RawSQLDemo\obj\Debug\RawSQLDemo.csprojResolveAssemblyReference.cache
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_9_RawSQLDemo\RawSQLDemo\RawSQLDemo\obj\Debug\RawSQLDemo.exe
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_9_RawSQLDemo\RawSQLDemo\RawSQLDemo\obj\Debug\RawSQLDemo.pdb

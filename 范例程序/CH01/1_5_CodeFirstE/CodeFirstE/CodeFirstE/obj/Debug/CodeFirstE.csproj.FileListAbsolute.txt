@@ -1,0 +1,25 @@
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CodeFirstE\CodeFirstE\obj\Debug\CodeFirstE.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CodeFirstE\CodeFirstE\bin\Debug\CodeFirstE.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CodeFirstE\CodeFirstE\bin\Debug\CodeFirstE.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CodeFirstE\CodeFirstE\bin\Debug\CodeFirstE.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CodeFirstE\CodeFirstE\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CodeFirstE\CodeFirstE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CodeFirstE\CodeFirstE\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CodeFirstE\CodeFirstE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CodeFirstE\CodeFirstE\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CodeFirstE\CodeFirstE\obj\Debug\CodeFirstE.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CodeFirstE\CodeFirstE\obj\Debug\CodeFirstE.pdb
+D:\CsharpReview\EF\范例程序\CH01\1_5_CodeFirstE\CodeFirstE\CodeFirstE\bin\Debug\CodeFirstE.exe.config
+D:\CsharpReview\EF\范例程序\CH01\1_5_CodeFirstE\CodeFirstE\CodeFirstE\bin\Debug\CodeFirstE.exe
+D:\CsharpReview\EF\范例程序\CH01\1_5_CodeFirstE\CodeFirstE\CodeFirstE\bin\Debug\CodeFirstE.pdb
+D:\CsharpReview\EF\范例程序\CH01\1_5_CodeFirstE\CodeFirstE\CodeFirstE\bin\Debug\EntityFramework.dll
+D:\CsharpReview\EF\范例程序\CH01\1_5_CodeFirstE\CodeFirstE\CodeFirstE\bin\Debug\EntityFramework.SqlServer.dll
+D:\CsharpReview\EF\范例程序\CH01\1_5_CodeFirstE\CodeFirstE\CodeFirstE\bin\Debug\EntityFramework.xml
+D:\CsharpReview\EF\范例程序\CH01\1_5_CodeFirstE\CodeFirstE\CodeFirstE\bin\Debug\EntityFramework.SqlServer.xml
+D:\CsharpReview\EF\范例程序\CH01\1_5_CodeFirstE\CodeFirstE\CodeFirstE\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\CsharpReview\EF\范例程序\CH01\1_5_CodeFirstE\CodeFirstE\CodeFirstE\obj\Debug\CodeFirstE.csproj.AssemblyReference.cache
+D:\CsharpReview\EF\范例程序\CH01\1_5_CodeFirstE\CodeFirstE\CodeFirstE\obj\Debug\CodeFirstE.csproj.SuggestedBindingRedirects.cache
+D:\CsharpReview\EF\范例程序\CH01\1_5_CodeFirstE\CodeFirstE\CodeFirstE\obj\Debug\CodeFirstE.csproj.CoreCompileInputs.cache
+D:\CsharpReview\EF\范例程序\CH01\1_5_CodeFirstE\CodeFirstE\CodeFirstE\obj\Debug\CodeFirstE.csproj.CopyComplete
+D:\CsharpReview\EF\范例程序\CH01\1_5_CodeFirstE\CodeFirstE\CodeFirstE\obj\Debug\CodeFirstE.exe
+D:\CsharpReview\EF\范例程序\CH01\1_5_CodeFirstE\CodeFirstE\CodeFirstE\obj\Debug\CodeFirstE.pdb

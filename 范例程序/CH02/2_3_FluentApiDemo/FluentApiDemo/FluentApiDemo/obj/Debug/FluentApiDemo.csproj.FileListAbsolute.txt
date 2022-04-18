@@ -1,0 +1,22 @@
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH02\2-3\FluentApiDemo\FluentApiDemo\bin\Debug\FluentApiDemo.exe.config
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH02\2-3\FluentApiDemo\FluentApiDemo\bin\Debug\FluentApiDemo.exe
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH02\2-3\FluentApiDemo\FluentApiDemo\bin\Debug\FluentApiDemo.pdb
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH02\2-3\FluentApiDemo\FluentApiDemo\obj\Debug\FluentApiDemo.csprojResolveAssemblyReference.cache
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH02\2-3\FluentApiDemo\FluentApiDemo\obj\Debug\FluentApiDemo.exe
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH02\2-3\FluentApiDemo\FluentApiDemo\obj\Debug\FluentApiDemo.pdb
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH02\2-3\FluentApiDemo\FluentApiDemo\bin\Debug\EntityFramework.dll
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH02\2-3\FluentApiDemo\FluentApiDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH02\2-3\FluentApiDemo\FluentApiDemo\bin\Debug\EntityFramework.xml
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH02\2-3\FluentApiDemo\FluentApiDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH02\2-3\FluentApiDemo\FluentApiDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\FluentApiDemo\FluentApiDemo\bin\Debug\FluentApiDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\FluentApiDemo\FluentApiDemo\bin\Debug\FluentApiDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\FluentApiDemo\FluentApiDemo\bin\Debug\FluentApiDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\FluentApiDemo\FluentApiDemo\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\FluentApiDemo\FluentApiDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\FluentApiDemo\FluentApiDemo\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\FluentApiDemo\FluentApiDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\FluentApiDemo\FluentApiDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\FluentApiDemo\FluentApiDemo\obj\Debug\FluentApiDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\FluentApiDemo\FluentApiDemo\obj\Debug\FluentApiDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\FluentApiDemo\FluentApiDemo\obj\Debug\FluentApiDemo.pdb

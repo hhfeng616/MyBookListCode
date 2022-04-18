@@ -1,0 +1,12 @@
+D:\Book\EntityFramework\RC1\Example\CH03\JoinDemo\JoinDemo\bin\Debug\JoinDemo.exe.config
+D:\Book\EntityFramework\RC1\Example\CH03\JoinDemo\JoinDemo\bin\Debug\JoinDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH03\JoinDemo\JoinDemo\bin\Debug\JoinDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH03\JoinDemo\JoinDemo\obj\Debug\JoinDemo.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\RC1\Example\CH03\JoinDemo\JoinDemo\obj\Debug\JoinDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH03\JoinDemo\JoinDemo\obj\Debug\JoinDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\JoinDemo\JoinDemo\bin\Debug\JoinDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\JoinDemo\JoinDemo\bin\Debug\JoinDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\JoinDemo\JoinDemo\bin\Debug\JoinDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\JoinDemo\JoinDemo\obj\Debug\JoinDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\JoinDemo\JoinDemo\obj\Debug\JoinDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\JoinDemo\JoinDemo\obj\Debug\JoinDemo.pdb

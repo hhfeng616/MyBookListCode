@@ -1,0 +1,24 @@
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLCommand\RawSQLCommand\bin\Debug\RawSQLCommand.exe.config
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLCommand\RawSQLCommand\bin\Debug\KTStore.mdf
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLCommand\RawSQLCommand\bin\Debug\KTStore_log.ldf
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLCommand\RawSQLCommand\bin\Debug\RawSQLCommand.exe
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLCommand\RawSQLCommand\bin\Debug\RawSQLCommand.pdb
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLCommand\RawSQLCommand\bin\Debug\EntityFramework.dll
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLCommand\RawSQLCommand\bin\Debug\EntityFramework.SqlServer.dll
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLCommand\RawSQLCommand\bin\Debug\EntityFramework.xml
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLCommand\RawSQLCommand\bin\Debug\EntityFramework.SqlServer.xml
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLCommand\RawSQLCommand\obj\Debug\RawSQLCommand.csprojResolveAssemblyReference.cache
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLCommand\RawSQLCommand\obj\Debug\RawSQLCommand.exe
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\RawSQLCommand\RawSQLCommand\obj\Debug\RawSQLCommand.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\RawSQLCommand\RawSQLCommand\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\RawSQLCommand\RawSQLCommand\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\RawSQLCommand\RawSQLCommand\bin\Debug\RawSQLCommand.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\RawSQLCommand\RawSQLCommand\bin\Debug\RawSQLCommand.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\RawSQLCommand\RawSQLCommand\bin\Debug\RawSQLCommand.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\RawSQLCommand\RawSQLCommand\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\RawSQLCommand\RawSQLCommand\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\RawSQLCommand\RawSQLCommand\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\RawSQLCommand\RawSQLCommand\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\RawSQLCommand\RawSQLCommand\obj\Debug\RawSQLCommand.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\RawSQLCommand\RawSQLCommand\obj\Debug\RawSQLCommand.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\RawSQLCommand\RawSQLCommand\obj\Debug\RawSQLCommand.pdb

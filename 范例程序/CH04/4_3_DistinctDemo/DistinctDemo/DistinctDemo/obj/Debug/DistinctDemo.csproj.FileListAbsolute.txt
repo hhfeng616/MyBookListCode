@@ -1,0 +1,11 @@
+D:\Book\EntityFramework\RC1\Example\CH04\DistinctDemo\DistinctDemo\bin\Debug\DistinctDemo.exe.config
+D:\Book\EntityFramework\RC1\Example\CH04\DistinctDemo\DistinctDemo\bin\Debug\DistinctDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH04\DistinctDemo\DistinctDemo\bin\Debug\DistinctDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH04\DistinctDemo\DistinctDemo\obj\Debug\DistinctDemo.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\RC1\Example\CH04\DistinctDemo\DistinctDemo\obj\Debug\DistinctDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH04\DistinctDemo\DistinctDemo\obj\Debug\DistinctDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DistinctDemo\DistinctDemo\bin\Debug\DistinctDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DistinctDemo\DistinctDemo\bin\Debug\DistinctDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DistinctDemo\DistinctDemo\bin\Debug\DistinctDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DistinctDemo\DistinctDemo\obj\Debug\DistinctDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DistinctDemo\DistinctDemo\obj\Debug\DistinctDemo.pdb

@@ -1,0 +1,11 @@
+D:\Book\EntityFramework\RC1\Example\CH04\GenDemo\GenDemo\bin\Debug\GenDemo.exe.config
+D:\Book\EntityFramework\RC1\Example\CH04\GenDemo\GenDemo\bin\Debug\GenDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH04\GenDemo\GenDemo\bin\Debug\GenDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH04\GenDemo\GenDemo\obj\Debug\GenDemo.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\RC1\Example\CH04\GenDemo\GenDemo\obj\Debug\GenDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH04\GenDemo\GenDemo\obj\Debug\GenDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\GenDemo\GenDemo\bin\Debug\GenDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\GenDemo\GenDemo\bin\Debug\GenDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\GenDemo\GenDemo\bin\Debug\GenDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\GenDemo\GenDemo\obj\Debug\GenDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\GenDemo\GenDemo\obj\Debug\GenDemo.pdb

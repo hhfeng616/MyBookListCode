@@ -1,0 +1,36 @@
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\SaveChangesDelete\SaveChangesDelete\bin\Debug\SaveChangesDelete.exe.config
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\SaveChangesDelete\SaveChangesDelete\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\SaveChangesDelete\SaveChangesDelete\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\SaveChangesDelete\SaveChangesDelete\bin\Debug\SaveChangesDelete.exe
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\SaveChangesDelete\SaveChangesDelete\bin\Debug\SaveChangesDelete.pdb
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\SaveChangesDelete\SaveChangesDelete\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\SaveChangesDelete\SaveChangesDelete\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\SaveChangesDelete\SaveChangesDelete\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\SaveChangesDelete\SaveChangesDelete\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\SaveChangesDelete\SaveChangesDelete\obj\Debug\SaveChangesDelete.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\SaveChangesDelete\SaveChangesDelete\obj\Debug\SaveChangesDelete.exe
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\SaveChangesDelete\SaveChangesDelete\obj\Debug\SaveChangesDelete.pdb
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesDelete\SaveChangesDelete\bin\Debug\SaveChangesDelete.exe.config
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesDelete\SaveChangesDelete\obj\Debug\SaveChangesDelete.exe
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesDelete\SaveChangesDelete\obj\Debug\SaveChangesDelete.pdb
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesDelete\SaveChangesDelete\bin\Debug\KTStore.mdf
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesDelete\SaveChangesDelete\bin\Debug\KTStore_log.ldf
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesDelete\SaveChangesDelete\bin\Debug\SaveChangesDelete.exe
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesDelete\SaveChangesDelete\bin\Debug\SaveChangesDelete.pdb
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesDelete\SaveChangesDelete\bin\Debug\EntityFramework.dll
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesDelete\SaveChangesDelete\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesDelete\SaveChangesDelete\bin\Debug\EntityFramework.xml
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesDelete\SaveChangesDelete\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesDelete\SaveChangesDelete\obj\Debug\SaveChangesDelete.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesDelete\SaveChangesDelete\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesDelete\SaveChangesDelete\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesDelete\SaveChangesDelete\bin\Debug\SaveChangesDelete.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesDelete\SaveChangesDelete\bin\Debug\SaveChangesDelete.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesDelete\SaveChangesDelete\bin\Debug\SaveChangesDelete.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesDelete\SaveChangesDelete\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesDelete\SaveChangesDelete\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesDelete\SaveChangesDelete\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesDelete\SaveChangesDelete\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesDelete\SaveChangesDelete\obj\Debug\SaveChangesDelete.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesDelete\SaveChangesDelete\obj\Debug\SaveChangesDelete.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesDelete\SaveChangesDelete\obj\Debug\SaveChangesDelete.pdb

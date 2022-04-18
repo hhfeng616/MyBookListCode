@@ -1,0 +1,15 @@
+D:\Book\EntityFramework\RC1\Example\CH03\AverageDemo\AverageDemo\bin\Debug\AverageDemo.exe.config
+D:\Book\EntityFramework\RC1\Example\CH04\AverageDemo\AverageDemo\bin\Debug\AverageDemo.exe.config
+D:\Book\EntityFramework\RC1\Example\CH04\AverageDemo\AverageDemo\bin\Debug\AverageDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH04\AverageDemo\AverageDemo\bin\Debug\AverageDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH04\AverageDemo\AverageDemo\obj\Debug\AverageDemo.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\RC1\Example\CH04\AverageDemo\AverageDemo\obj\Debug\AverageDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH04\AverageDemo\AverageDemo\obj\Debug\AverageDemo.pdb
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH04\AverageDemo\AverageDemo\bin\Debug\AverageDemo.exe.config
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH04\AverageDemo\AverageDemo\obj\Debug\AverageDemo.exe
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH04\AverageDemo\AverageDemo\obj\Debug\AverageDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AverageDemo\AverageDemo\bin\Debug\AverageDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AverageDemo\AverageDemo\bin\Debug\AverageDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AverageDemo\AverageDemo\bin\Debug\AverageDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AverageDemo\AverageDemo\obj\Debug\AverageDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AverageDemo\AverageDemo\obj\Debug\AverageDemo.pdb

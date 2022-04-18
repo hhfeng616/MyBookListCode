@@ -1,0 +1,12 @@
+c:\users\jun\documents\visual studio 2017\Projects\CodeFirstM\CodeFirstM\bin\Debug\KTStore.mdf
+c:\users\jun\documents\visual studio 2017\Projects\CodeFirstM\CodeFirstM\bin\Debug\KTStore_log.ldf
+c:\users\jun\documents\visual studio 2017\Projects\CodeFirstM\CodeFirstM\bin\Debug\EntityFramework.dll
+c:\users\jun\documents\visual studio 2017\Projects\CodeFirstM\CodeFirstM\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\jun\documents\visual studio 2017\Projects\CodeFirstM\CodeFirstM\bin\Debug\EntityFramework.xml
+c:\users\jun\documents\visual studio 2017\Projects\CodeFirstM\CodeFirstM\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\jun\documents\visual studio 2017\Projects\CodeFirstM\CodeFirstM\bin\Debug\zh-Hans\EntityFramework.resources.dll
+c:\users\jun\documents\visual studio 2017\Projects\CodeFirstM\CodeFirstM\obj\Debug\CodeFirstM.exe
+c:\users\jun\documents\visual studio 2017\Projects\CodeFirstM\CodeFirstM\obj\Debug\CodeFirstM.pdb
+C:\Users\Jun\documents\visual studio 2017\Projects\CodeFirstM\CodeFirstM\bin\Debug\CodeFirstM.exe.config
+C:\Users\Jun\documents\visual studio 2017\Projects\CodeFirstM\CodeFirstM\bin\Debug\CodeFirstM.exe
+C:\Users\Jun\documents\visual studio 2017\Projects\CodeFirstM\CodeFirstM\bin\Debug\CodeFirstM.pdb

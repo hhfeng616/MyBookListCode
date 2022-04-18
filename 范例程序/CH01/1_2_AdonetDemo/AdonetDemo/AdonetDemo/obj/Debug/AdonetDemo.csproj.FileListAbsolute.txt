@@ -1,0 +1,16 @@
+D:\Book\EntityFramework\RC1\Example\CH01\AdonetDemo\AdonetDemo\bin\Debug\AdonetDemo.exe.config
+D:\Book\EntityFramework\RC1\Example\CH01\AdonetDemo\AdonetDemo\obj\Debug\AdonetDemo.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\RC1\Example\CH01\AdonetDemo\AdonetDemo\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\RC1\Example\CH01\AdonetDemo\AdonetDemo\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\RC1\Example\CH01\AdonetDemo\AdonetDemo\bin\Debug\AdonetDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH01\AdonetDemo\AdonetDemo\bin\Debug\AdonetDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH01\AdonetDemo\AdonetDemo\obj\Debug\AdonetDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH01\AdonetDemo\AdonetDemo\obj\Debug\AdonetDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AdonetDemo\AdonetDemo\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AdonetDemo\AdonetDemo\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AdonetDemo\AdonetDemo\bin\Debug\AdonetDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AdonetDemo\AdonetDemo\bin\Debug\AdonetDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AdonetDemo\AdonetDemo\bin\Debug\AdonetDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AdonetDemo\AdonetDemo\obj\Debug\AdonetDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AdonetDemo\AdonetDemo\obj\Debug\AdonetDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AdonetDemo\AdonetDemo\obj\Debug\AdonetDemo.pdb

@@ -1,0 +1,23 @@
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\TransactionScopeDemo\TransactionScopeDemo\bin\Debug\TransactionScopeDemo.exe.config
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\TransactionScopeDemo\TransactionScopeDemo\bin\Debug\TransactionScopeDemo.exe
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\TransactionScopeDemo\TransactionScopeDemo\bin\Debug\TransactionScopeDemo.pdb
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\TransactionScopeDemo\TransactionScopeDemo\bin\Debug\EntityFramework.dll
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\TransactionScopeDemo\TransactionScopeDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\TransactionScopeDemo\TransactionScopeDemo\bin\Debug\EntityFramework.xml
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\TransactionScopeDemo\TransactionScopeDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\TransactionScopeDemo\TransactionScopeDemo\obj\Debug\TransactionScopeDemo.csprojResolveAssemblyReference.cache
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\TransactionScopeDemo\TransactionScopeDemo\obj\Debug\TransactionScopeDemo.exe
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\TransactionScopeDemo\TransactionScopeDemo\obj\Debug\TransactionScopeDemo.pdb
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\TransactionScopeDemo\TransactionScopeDemo\bin\Debug\KTStore.mdf
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\TransactionScopeDemo\TransactionScopeDemo\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TransactionScopeDemo\TransactionScopeDemo\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TransactionScopeDemo\TransactionScopeDemo\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TransactionScopeDemo\TransactionScopeDemo\bin\Debug\TransactionScopeDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TransactionScopeDemo\TransactionScopeDemo\bin\Debug\TransactionScopeDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TransactionScopeDemo\TransactionScopeDemo\bin\Debug\TransactionScopeDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TransactionScopeDemo\TransactionScopeDemo\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TransactionScopeDemo\TransactionScopeDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TransactionScopeDemo\TransactionScopeDemo\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TransactionScopeDemo\TransactionScopeDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TransactionScopeDemo\TransactionScopeDemo\obj\Debug\TransactionScopeDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TransactionScopeDemo\TransactionScopeDemo\obj\Debug\TransactionScopeDemo.pdb

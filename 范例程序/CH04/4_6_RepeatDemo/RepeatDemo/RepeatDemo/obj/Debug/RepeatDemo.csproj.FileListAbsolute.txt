@@ -1,0 +1,12 @@
+D:\Book\EntityFramework\RC1\Example\CH04\RepeatDemo\RepeatDemo\bin\Debug\RepeatDemo.exe.config
+D:\Book\EntityFramework\RC1\Example\CH04\RepeatDemo\RepeatDemo\bin\Debug\RepeatDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH04\RepeatDemo\RepeatDemo\bin\Debug\RepeatDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH04\RepeatDemo\RepeatDemo\obj\Debug\RepeatDemo.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\RC1\Example\CH04\RepeatDemo\RepeatDemo\obj\Debug\RepeatDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH04\RepeatDemo\RepeatDemo\obj\Debug\RepeatDemo.pdb
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH04\4_6_RepeatDemo\RepeatDemo\RepeatDemo\bin\Debug\RepeatDemo.exe.config
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH04\4_6_RepeatDemo\RepeatDemo\RepeatDemo\bin\Debug\RepeatDemo.exe
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH04\4_6_RepeatDemo\RepeatDemo\RepeatDemo\bin\Debug\RepeatDemo.pdb
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH04\4_6_RepeatDemo\RepeatDemo\RepeatDemo\obj\Debug\RepeatDemo.csprojResolveAssemblyReference.cache
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH04\4_6_RepeatDemo\RepeatDemo\RepeatDemo\obj\Debug\RepeatDemo.exe
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH04\4_6_RepeatDemo\RepeatDemo\RepeatDemo\obj\Debug\RepeatDemo.pdb

@@ -1,0 +1,82 @@
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH02\CFCDemo\CFCDemo\bin\Debug\CFCDemo.exe.config
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH02\CFCDemo\CFCDemo\bin\Debug\CFCDemo.exe
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH02\CFCDemo\CFCDemo\bin\Debug\CFCDemo.pdb
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH02\CFCDemo\CFCDemo\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH02\CFCDemo\CFCDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH02\CFCDemo\CFCDemo\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH02\CFCDemo\CFCDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH02\CFCDemo\CFCDemo\obj\Debug\CFCDemo.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH02\CFCDemo\CFCDemo\obj\Debug\CFCDemo.exe
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH02\CFCDemo\CFCDemo\obj\Debug\CFCDemo.pdb
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH02\CFCDemo\CFCDemo\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH02\CFCDemo\CFCDemo\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\EXAMPLE\CH02\CFCDemo\CFCDemo\bin\Debug\CFCDemo.exe.config
+D:\Book\EntityFramework\EXAMPLE\CH02\CFCDemo\CFCDemo\bin\Debug\CFCDemo.exe
+D:\Book\EntityFramework\EXAMPLE\CH02\CFCDemo\CFCDemo\bin\Debug\CFCDemo.pdb
+D:\Book\EntityFramework\EXAMPLE\CH02\CFCDemo\CFCDemo\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\EXAMPLE\CH02\CFCDemo\CFCDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\EXAMPLE\CH02\CFCDemo\CFCDemo\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\EXAMPLE\CH02\CFCDemo\CFCDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\EXAMPLE\CH02\CFCDemo\CFCDemo\obj\Debug\CFCDemo.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\EXAMPLE\CH02\CFCDemo\CFCDemo\obj\Debug\CFCDemo.exe
+D:\Book\EntityFramework\EXAMPLE\CH02\CFCDemo\CFCDemo\obj\Debug\CFCDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH02\CFCDemo\CFCDemo\bin\Debug\CFCDemo.exe.config
+D:\Book\EntityFramework\RC1\Example\CH02\CFCDemo\CFCDemo\obj\Debug\CFCDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH02\CFCDemo\CFCDemo\obj\Debug\CFCDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH02\CFCDemo\CFCDemo\bin\Debug\CFCDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH02\CFCDemo\CFCDemo\bin\Debug\CFCDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH02\CFCDemo\CFCDemo\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\RC1\Example\CH02\CFCDemo\CFCDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\RC1\Example\CH02\CFCDemo\CFCDemo\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\RC1\Example\CH02\CFCDemo\CFCDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\RC1\Example\CH02\CFCDemo\CFCDemo\obj\Debug\CFCDemo.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\RC1\Example\CH02\CFCDemo\CFCDemo\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\RC1\Example\CH02\CFCDemo\CFCDemo\bin\Debug\KTStore_log.ldf
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH02\2-1\CFCDemo\CFCDemo\bin\Debug\CFCDemo.exe.config
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH02\2-1\CFCDemo\CFCDemo\obj\Debug\CFCDemo.exe
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH02\2-1\CFCDemo\CFCDemo\obj\Debug\CFCDemo.pdb
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH02\2-1\CFCDemo\CFCDemo\bin\Debug\KTStore.mdf
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH02\2-1\CFCDemo\CFCDemo\bin\Debug\KTStore_log.ldf
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH02\2-1\CFCDemo\CFCDemo\bin\Debug\CFCDemo.exe
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH02\2-1\CFCDemo\CFCDemo\bin\Debug\CFCDemo.pdb
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH02\2-1\CFCDemo\CFCDemo\bin\Debug\EntityFramework.dll
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH02\2-1\CFCDemo\CFCDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH02\2-1\CFCDemo\CFCDemo\bin\Debug\EntityFramework.xml
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH02\2-1\CFCDemo\CFCDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH02\2-1\CFCDemo\CFCDemo\obj\Debug\CFCDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\2_1_CFCDemo\CFCDemo\CFCDemo\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\2_1_CFCDemo\CFCDemo\CFCDemo\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\2_1_CFCDemo\CFCDemo\CFCDemo\bin\Debug\CFCDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\2_1_CFCDemo\CFCDemo\CFCDemo\bin\Debug\CFCDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\2_1_CFCDemo\CFCDemo\CFCDemo\bin\Debug\CFCDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\2_1_CFCDemo\CFCDemo\CFCDemo\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\2_1_CFCDemo\CFCDemo\CFCDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\2_1_CFCDemo\CFCDemo\CFCDemo\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\2_1_CFCDemo\CFCDemo\CFCDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\2_1_CFCDemo\CFCDemo\CFCDemo\obj\Debug\CFCDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\2_1_CFCDemo\CFCDemo\CFCDemo\obj\Debug\CFCDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\2_1_CFCDemo\CFCDemo\CFCDemo\obj\Debug\CFCDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CFCDemo\CFCDemo\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CFCDemo\CFCDemo\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CFCDemo\CFCDemo\bin\Debug\CFCDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CFCDemo\CFCDemo\bin\Debug\CFCDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CFCDemo\CFCDemo\bin\Debug\CFCDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CFCDemo\CFCDemo\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CFCDemo\CFCDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CFCDemo\CFCDemo\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CFCDemo\CFCDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CFCDemo\CFCDemo\obj\Debug\CFCDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CFCDemo\CFCDemo\obj\Debug\CFCDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CFCDemo\CFCDemo\obj\Debug\CFCDemo.csprojResolveAssemblyReference.cache
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH02\2_1_CFCDemo\CFCDemo\CFCDemo\bin\Debug\KTStore.mdf
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH02\2_1_CFCDemo\CFCDemo\CFCDemo\bin\Debug\KTStore_log.ldf
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH02\2_1_CFCDemo\CFCDemo\CFCDemo\bin\Debug\CFCDemo.exe.config
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH02\2_1_CFCDemo\CFCDemo\CFCDemo\bin\Debug\CFCDemo.exe
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH02\2_1_CFCDemo\CFCDemo\CFCDemo\bin\Debug\CFCDemo.pdb
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH02\2_1_CFCDemo\CFCDemo\CFCDemo\bin\Debug\EntityFramework.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH02\2_1_CFCDemo\CFCDemo\CFCDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH02\2_1_CFCDemo\CFCDemo\CFCDemo\bin\Debug\EntityFramework.xml
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH02\2_1_CFCDemo\CFCDemo\CFCDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH02\2_1_CFCDemo\CFCDemo\CFCDemo\obj\Debug\CFCDemo.csprojResolveAssemblyReference.cache
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH02\2_1_CFCDemo\CFCDemo\CFCDemo\obj\Debug\CFCDemo.exe
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH02\2_1_CFCDemo\CFCDemo\CFCDemo\obj\Debug\CFCDemo.pdb

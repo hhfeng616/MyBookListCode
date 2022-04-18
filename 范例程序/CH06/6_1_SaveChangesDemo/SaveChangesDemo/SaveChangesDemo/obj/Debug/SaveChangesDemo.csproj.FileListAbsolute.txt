@@ -1,0 +1,42 @@
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\SaveChangesDemo\SaveChangesDemo\bin\Debug\SaveChangesDemo.exe.config
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\SaveChangesDemo\SaveChangesDemo\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\SaveChangesDemo\SaveChangesDemo\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\SaveChangesDemo\SaveChangesDemo\bin\Debug\SaveChangesDemo.exe
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\SaveChangesDemo\SaveChangesDemo\bin\Debug\SaveChangesDemo.pdb
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\SaveChangesDemo\SaveChangesDemo\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\SaveChangesDemo\SaveChangesDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\SaveChangesDemo\SaveChangesDemo\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\SaveChangesDemo\SaveChangesDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\SaveChangesDemo\SaveChangesDemo\obj\Debug\SaveChangesDemo.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\SaveChangesDemo\SaveChangesDemo\obj\Debug\SaveChangesDemo.exe
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\SaveChangesDemo\SaveChangesDemo\obj\Debug\SaveChangesDemo.pdb
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\SaveChangesDemo\SaveChangesDemo\bin\Debug\SaveChangesDemo.exe.config
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\SaveChangesDemo\SaveChangesDemo\obj\Debug\SaveChangesDemo.exe
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\SaveChangesDemo\SaveChangesDemo\obj\Debug\SaveChangesDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH06\SaveChangesDemo\SaveChangesDemo\bin\Debug\SaveChangesDemo.exe.config
+D:\Book\EntityFramework\RC1\Example\CH06\SaveChangesDemo\SaveChangesDemo\obj\Debug\SaveChangesDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH06\SaveChangesDemo\SaveChangesDemo\obj\Debug\SaveChangesDemo.pdb
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesDemo\SaveChangesDemo\bin\Debug\SaveChangesDemo.exe.config
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesDemo\SaveChangesDemo\obj\Debug\SaveChangesDemo.exe
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesDemo\SaveChangesDemo\obj\Debug\SaveChangesDemo.pdb
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesDemo\SaveChangesDemo\bin\Debug\KTStore.mdf
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesDemo\SaveChangesDemo\bin\Debug\KTStore_log.ldf
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesDemo\SaveChangesDemo\bin\Debug\SaveChangesDemo.exe
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesDemo\SaveChangesDemo\bin\Debug\SaveChangesDemo.pdb
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesDemo\SaveChangesDemo\bin\Debug\EntityFramework.dll
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesDemo\SaveChangesDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesDemo\SaveChangesDemo\bin\Debug\EntityFramework.xml
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesDemo\SaveChangesDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesDemo\SaveChangesDemo\obj\Debug\SaveChangesDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesDemo\SaveChangesDemo\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesDemo\SaveChangesDemo\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesDemo\SaveChangesDemo\bin\Debug\SaveChangesDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesDemo\SaveChangesDemo\bin\Debug\SaveChangesDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesDemo\SaveChangesDemo\bin\Debug\SaveChangesDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesDemo\SaveChangesDemo\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesDemo\SaveChangesDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesDemo\SaveChangesDemo\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesDemo\SaveChangesDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesDemo\SaveChangesDemo\obj\Debug\SaveChangesDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesDemo\SaveChangesDemo\obj\Debug\SaveChangesDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesDemo\SaveChangesDemo\obj\Debug\SaveChangesDemo.csprojResolveAssemblyReference.cache

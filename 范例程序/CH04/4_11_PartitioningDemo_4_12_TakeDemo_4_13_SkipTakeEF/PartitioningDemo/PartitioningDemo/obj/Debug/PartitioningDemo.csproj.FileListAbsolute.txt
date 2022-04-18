@@ -1,0 +1,25 @@
+D:\Book\EntityFramework\RC1\Example\CH04\PartitioningDemo\PartitioningDemo\bin\Debug\PartitioningDemo.exe.config
+D:\Book\EntityFramework\RC1\Example\CH04\PartitioningDemo\PartitioningDemo\bin\Debug\PartitioningDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH04\PartitioningDemo\PartitioningDemo\bin\Debug\PartitioningDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH04\PartitioningDemo\PartitioningDemo\obj\Debug\PartitioningDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH04\PartitioningDemo\PartitioningDemo\obj\Debug\PartitioningDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH04\PartitioningDemo\PartitioningDemo\obj\Debug\PartitioningDemo.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\RC1\Example\CH04\PartitioningDemo\PartitioningDemo\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\RC1\Example\CH04\PartitioningDemo\PartitioningDemo\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\RC1\Example\CH04\PartitioningDemo\PartitioningDemo\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\RC1\Example\CH04\PartitioningDemo\PartitioningDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\RC1\Example\CH04\PartitioningDemo\PartitioningDemo\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\RC1\Example\CH04\PartitioningDemo\PartitioningDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\RC1\Example\CH04\PartitioningDemo\PartitioningDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\PartitioningDemo\PartitioningDemo\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\PartitioningDemo\PartitioningDemo\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\PartitioningDemo\PartitioningDemo\bin\Debug\PartitioningDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\PartitioningDemo\PartitioningDemo\bin\Debug\PartitioningDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\PartitioningDemo\PartitioningDemo\bin\Debug\PartitioningDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\PartitioningDemo\PartitioningDemo\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\PartitioningDemo\PartitioningDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\PartitioningDemo\PartitioningDemo\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\PartitioningDemo\PartitioningDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\PartitioningDemo\PartitioningDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\PartitioningDemo\PartitioningDemo\obj\Debug\PartitioningDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\PartitioningDemo\PartitioningDemo\obj\Debug\PartitioningDemo.pdb

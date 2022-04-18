@@ -1,0 +1,39 @@
+D:\Book\EntityFramework\RC1\Example\CH04\AverageEFDemo\AverageEFDemo\bin\Debug\AverageEFDemo.exe.config
+D:\Book\EntityFramework\RC1\Example\CH04\AverageEFDemo\AverageEFDemo\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\RC1\Example\CH04\AverageEFDemo\AverageEFDemo\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\RC1\Example\CH04\AverageEFDemo\AverageEFDemo\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\RC1\Example\CH04\AverageEFDemo\AverageEFDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\RC1\Example\CH04\AverageEFDemo\AverageEFDemo\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\RC1\Example\CH04\AverageEFDemo\AverageEFDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\RC1\Example\CH04\AverageEFDemo\AverageEFDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Book\EntityFramework\RC1\Example\CH04\AverageEFDemo\AverageEFDemo\obj\Debug\AverageEFDemo.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\RC1\Example\CH04\AverageEFDemo\AverageEFDemo\obj\Debug\AverageEFDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH04\AverageEFDemo\AverageEFDemo\obj\Debug\AverageEFDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH04\AverageEFDemo\AverageEFDemo\bin\Debug\AverageEFDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH04\AverageEFDemo\AverageEFDemo\bin\Debug\AverageEFDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AverageEFDemo\AverageEFDemo\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AverageEFDemo\AverageEFDemo\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AverageEFDemo\AverageEFDemo\bin\Debug\AverageEFDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AverageEFDemo\AverageEFDemo\bin\Debug\AverageEFDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AverageEFDemo\AverageEFDemo\bin\Debug\AverageEFDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AverageEFDemo\AverageEFDemo\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AverageEFDemo\AverageEFDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AverageEFDemo\AverageEFDemo\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AverageEFDemo\AverageEFDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AverageEFDemo\AverageEFDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AverageEFDemo\AverageEFDemo\obj\Debug\AverageEFDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AverageEFDemo\AverageEFDemo\obj\Debug\AverageEFDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AverageEFDemo\AverageEFDemo\obj\Debug\AverageEFDemo.csprojResolveAssemblyReference.cache
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH04\4_2_AverageEFDemo\AverageEFDemo\AverageEFDemo\bin\Debug\KTStore.mdf
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH04\4_2_AverageEFDemo\AverageEFDemo\AverageEFDemo\bin\Debug\KTStore_log.ldf
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH04\4_2_AverageEFDemo\AverageEFDemo\AverageEFDemo\bin\Debug\AverageEFDemo.exe.config
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH04\4_2_AverageEFDemo\AverageEFDemo\AverageEFDemo\bin\Debug\AverageEFDemo.exe
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH04\4_2_AverageEFDemo\AverageEFDemo\AverageEFDemo\bin\Debug\AverageEFDemo.pdb
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH04\4_2_AverageEFDemo\AverageEFDemo\AverageEFDemo\bin\Debug\EntityFramework.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH04\4_2_AverageEFDemo\AverageEFDemo\AverageEFDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH04\4_2_AverageEFDemo\AverageEFDemo\AverageEFDemo\bin\Debug\EntityFramework.xml
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH04\4_2_AverageEFDemo\AverageEFDemo\AverageEFDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH04\4_2_AverageEFDemo\AverageEFDemo\AverageEFDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH04\4_2_AverageEFDemo\AverageEFDemo\AverageEFDemo\obj\Debug\AverageEFDemo.csprojResolveAssemblyReference.cache
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH04\4_2_AverageEFDemo\AverageEFDemo\AverageEFDemo\obj\Debug\AverageEFDemo.exe
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH04\4_2_AverageEFDemo\AverageEFDemo\AverageEFDemo\obj\Debug\AverageEFDemo.pdb

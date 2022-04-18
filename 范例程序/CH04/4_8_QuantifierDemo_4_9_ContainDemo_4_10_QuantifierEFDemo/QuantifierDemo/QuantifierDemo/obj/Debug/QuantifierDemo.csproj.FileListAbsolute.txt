@@ -1,0 +1,26 @@
+D:\Book\EntityFramework\RC1\Example\CH04\QuantifierDemo\QuantifierDemo\bin\Debug\QuantifierDemo.exe.config
+D:\Book\EntityFramework\RC1\Example\CH04\QuantifierDemo\QuantifierDemo\obj\Debug\QuantifierDemo.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\RC1\Example\CH04\QuantifierDemo\QuantifierDemo\bin\Debug\QuantifierDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH04\QuantifierDemo\QuantifierDemo\bin\Debug\QuantifierDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH04\QuantifierDemo\QuantifierDemo\obj\Debug\QuantifierDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH04\QuantifierDemo\QuantifierDemo\obj\Debug\QuantifierDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH04\QuantifierDemo\QuantifierDemo\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\RC1\Example\CH04\QuantifierDemo\QuantifierDemo\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\RC1\Example\CH04\QuantifierDemo\QuantifierDemo\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\RC1\Example\CH04\QuantifierDemo\QuantifierDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\RC1\Example\CH04\QuantifierDemo\QuantifierDemo\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\RC1\Example\CH04\QuantifierDemo\QuantifierDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\RC1\Example\CH04\QuantifierDemo\QuantifierDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\QuantifierDemo\QuantifierDemo\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\QuantifierDemo\QuantifierDemo\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\QuantifierDemo\QuantifierDemo\bin\Debug\QuantifierDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\QuantifierDemo\QuantifierDemo\bin\Debug\QuantifierDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\QuantifierDemo\QuantifierDemo\bin\Debug\QuantifierDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\QuantifierDemo\QuantifierDemo\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\QuantifierDemo\QuantifierDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\QuantifierDemo\QuantifierDemo\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\QuantifierDemo\QuantifierDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\QuantifierDemo\QuantifierDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\QuantifierDemo\QuantifierDemo\obj\Debug\QuantifierDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\QuantifierDemo\QuantifierDemo\obj\Debug\QuantifierDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\QuantifierDemo\QuantifierDemo\obj\Debug\QuantifierDemo.csprojResolveAssemblyReference.cache

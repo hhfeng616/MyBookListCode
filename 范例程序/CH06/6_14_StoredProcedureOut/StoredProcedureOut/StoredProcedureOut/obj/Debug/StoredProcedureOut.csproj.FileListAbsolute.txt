@@ -1,0 +1,24 @@
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProcedureOut\StoredProcedureOut\bin\Debug\StoredProcedureOut.exe.config
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProcedureOut\StoredProcedureOut\bin\Debug\StoredProcedureOut.exe
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProcedureOut\StoredProcedureOut\bin\Debug\StoredProcedureOut.pdb
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProcedureOut\StoredProcedureOut\obj\Debug\StoredProcedureOut.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProcedureOut\StoredProcedureOut\obj\Debug\StoredProcedureOut.exe
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProcedureOut\StoredProcedureOut\obj\Debug\StoredProcedureOut.pdb
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProcedureOut\StoredProcedureOut\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProcedureOut\StoredProcedureOut\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProcedureOut\StoredProcedureOut\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProcedureOut\StoredProcedureOut\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProcedureOut\StoredProcedureOut\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProcedureOut\StoredProcedureOut\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProcedureOut\StoredProcedureOut\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProcedureOut\StoredProcedureOut\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProcedureOut\StoredProcedureOut\bin\Debug\StoredProcedureOut.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProcedureOut\StoredProcedureOut\bin\Debug\StoredProcedureOut.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProcedureOut\StoredProcedureOut\bin\Debug\StoredProcedureOut.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProcedureOut\StoredProcedureOut\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProcedureOut\StoredProcedureOut\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProcedureOut\StoredProcedureOut\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProcedureOut\StoredProcedureOut\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProcedureOut\StoredProcedureOut\obj\Debug\StoredProcedureOut.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProcedureOut\StoredProcedureOut\obj\Debug\StoredProcedureOut.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProcedureOut\StoredProcedureOut\obj\Debug\StoredProcedureOut.pdb

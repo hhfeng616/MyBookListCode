@@ -1,0 +1,44 @@
+﻿@model MVCEF.Models.Product
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Insert</title>
+    <style>
+        .editor-field {
+            margin: 0.4em;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm())
+        {
+            <div class="editor-field">
+                编号：
+                @Html.TextBoxFor(model => model.Id, new { style = "width:320px;" })
+            </div>
+            <div class="editor-field">
+                名称：
+                @Html.TextBoxFor(model => model.Name, new { style = "width:320px;" })
+            </div>
+            <div class="editor-field">
+                价格：
+                @Html.TextBoxFor(model => model.Price, new { style = "width:60px;" })
+            </div>
+            <div class="editor-field">
+                分类：
+                @Html.TextBoxFor(model => model.Category, new { style = "width:80px;" })
+            </div>
+            <div class="editor-field">
+                <input type="submit" value="添加" />
+            </div>
+        }
+    </div>
+</body>
+</html>

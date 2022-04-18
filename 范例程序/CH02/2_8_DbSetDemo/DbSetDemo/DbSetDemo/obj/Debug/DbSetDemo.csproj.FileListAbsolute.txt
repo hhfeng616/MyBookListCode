@@ -1,0 +1,25 @@
+D:\Book\EntityFramework\RC1\Example\CH02\DbSetDemo\DbSetDemo\bin\Debug\DbSetDemo.exe.config
+D:\Book\EntityFramework\RC1\Example\CH02\DbSetDemo\DbSetDemo\bin\Debug\DbSetDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH02\DbSetDemo\DbSetDemo\bin\Debug\DbSetDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH02\DbSetDemo\DbSetDemo\obj\Debug\DbSetDemo.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\RC1\Example\CH02\DbSetDemo\DbSetDemo\obj\Debug\DbSetDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH02\DbSetDemo\DbSetDemo\obj\Debug\DbSetDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH02\DbSetDemo\DbSetDemo\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\RC1\Example\CH02\DbSetDemo\DbSetDemo\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\RC1\Example\CH02\DbSetDemo\DbSetDemo\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\RC1\Example\CH02\DbSetDemo\DbSetDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\RC1\Example\CH02\DbSetDemo\DbSetDemo\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\RC1\Example\CH02\DbSetDemo\DbSetDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\RC1\Example\CH02\DbSetDemo\DbSetDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbSetDemo\DbSetDemo\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbSetDemo\DbSetDemo\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbSetDemo\DbSetDemo\bin\Debug\DbSetDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbSetDemo\DbSetDemo\bin\Debug\DbSetDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbSetDemo\DbSetDemo\bin\Debug\DbSetDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbSetDemo\DbSetDemo\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbSetDemo\DbSetDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbSetDemo\DbSetDemo\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbSetDemo\DbSetDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbSetDemo\DbSetDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbSetDemo\DbSetDemo\obj\Debug\DbSetDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbSetDemo\DbSetDemo\obj\Debug\DbSetDemo.pdb

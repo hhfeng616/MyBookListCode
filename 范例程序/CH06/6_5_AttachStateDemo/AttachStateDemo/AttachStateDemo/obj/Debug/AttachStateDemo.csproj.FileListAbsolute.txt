@@ -1,0 +1,36 @@
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\AttachStateDemo\AttachStateDemo\bin\Debug\AttachStateDemo.exe.config
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\AttachStateDemo\AttachStateDemo\bin\Debug\AttachStateDemo.exe
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\AttachStateDemo\AttachStateDemo\bin\Debug\AttachStateDemo.pdb
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\AttachStateDemo\AttachStateDemo\obj\Debug\AttachStateDemo.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\AttachStateDemo\AttachStateDemo\obj\Debug\AttachStateDemo.exe
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\AttachStateDemo\AttachStateDemo\obj\Debug\AttachStateDemo.pdb
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\AttachStateDemo\AttachStateDemo\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\AttachStateDemo\AttachStateDemo\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\AttachStateDemo\AttachStateDemo\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\AttachStateDemo\AttachStateDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\AttachStateDemo\AttachStateDemo\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\AttachStateDemo\AttachStateDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\AttachStateDemo\AttachStateDemo\bin\Debug\AttachStateDemo.exe.config
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\AttachStateDemo\AttachStateDemo\obj\Debug\AttachStateDemo.exe
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\AttachStateDemo\AttachStateDemo\obj\Debug\AttachStateDemo.pdb
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\AttachStateDemo\AttachStateDemo\bin\Debug\KTStore.mdf
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\AttachStateDemo\AttachStateDemo\bin\Debug\KTStore_log.ldf
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\AttachStateDemo\AttachStateDemo\bin\Debug\AttachStateDemo.exe
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\AttachStateDemo\AttachStateDemo\bin\Debug\AttachStateDemo.pdb
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\AttachStateDemo\AttachStateDemo\bin\Debug\EntityFramework.dll
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\AttachStateDemo\AttachStateDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\AttachStateDemo\AttachStateDemo\bin\Debug\EntityFramework.xml
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\AttachStateDemo\AttachStateDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\AttachStateDemo\AttachStateDemo\obj\Debug\AttachStateDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AttachStateDemo\AttachStateDemo\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AttachStateDemo\AttachStateDemo\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AttachStateDemo\AttachStateDemo\bin\Debug\AttachStateDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AttachStateDemo\AttachStateDemo\bin\Debug\AttachStateDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AttachStateDemo\AttachStateDemo\bin\Debug\AttachStateDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AttachStateDemo\AttachStateDemo\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AttachStateDemo\AttachStateDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AttachStateDemo\AttachStateDemo\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AttachStateDemo\AttachStateDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AttachStateDemo\AttachStateDemo\obj\Debug\AttachStateDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AttachStateDemo\AttachStateDemo\obj\Debug\AttachStateDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AttachStateDemo\AttachStateDemo\obj\Debug\AttachStateDemo.pdb

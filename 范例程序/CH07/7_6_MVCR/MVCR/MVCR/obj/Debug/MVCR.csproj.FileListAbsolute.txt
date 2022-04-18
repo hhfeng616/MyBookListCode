@@ -1,0 +1,73 @@
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\roslyn\csc.exe
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\roslyn\System.Collections.Immutable.dll
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\roslyn\System.Reflection.Metadata.dll
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\roslyn\vbc.exe
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\roslyn\VBCSCompiler.exe
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\roslyn\VBCSCompiler.exe.config
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\MVCR.dll.config
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\MVCR.dll
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\MVCR.pdb
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\EntityFramework.dll
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\Microsoft.Web.Infrastructure.dll
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\System.Web.Helpers.dll
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\System.Web.Mvc.dll
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\System.Web.Razor.dll
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\System.Web.Webpages.Deployment.dll
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\System.Web.Webpages.dll
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\System.Web.Webpages.Razor.dll
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\EntityFramework.xml
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\System.Web.Razor.xml
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\System.Web.Webpages.xml
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\System.Web.Webpages.Deployment.xml
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\System.Web.Webpages.Razor.xml
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\System.Web.Helpers.xml
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\bin\System.Web.Mvc.xml
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\obj\Debug\MVCR.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\obj\Debug\MVCR.dll
+D:\Book\EntityFramework\RC1\Example\CH07\MVCR\MVCR\obj\Debug\MVCR.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\roslyn\csc.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\roslyn\vbc.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\MVCR.dll.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\MVCR.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\MVCR.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\System.Web.Helpers.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\System.Web.Mvc.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\System.Web.Razor.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\System.Web.Webpages.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\System.Web.Webpages.Razor.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\System.Web.Razor.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\System.Web.Webpages.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\System.Web.Webpages.Razor.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\System.Web.Helpers.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\bin\System.Web.Mvc.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\obj\Debug\MVCR.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCR\MVCR\obj\Debug\MVCR.pdb

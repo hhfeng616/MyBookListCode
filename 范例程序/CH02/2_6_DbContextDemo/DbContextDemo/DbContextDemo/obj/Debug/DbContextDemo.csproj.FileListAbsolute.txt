@@ -1,0 +1,22 @@
+D:\Book\EntityFramework\RC1\Example\CH02\DbContextDemo\DbContextDemo\bin\Debug\DbContextDemo.exe.config
+D:\Book\EntityFramework\RC1\Example\CH02\DbContextDemo\DbContextDemo\bin\Debug\DbContextDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH02\DbContextDemo\DbContextDemo\bin\Debug\DbContextDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH02\DbContextDemo\DbContextDemo\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\RC1\Example\CH02\DbContextDemo\DbContextDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\RC1\Example\CH02\DbContextDemo\DbContextDemo\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\RC1\Example\CH02\DbContextDemo\DbContextDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\RC1\Example\CH02\DbContextDemo\DbContextDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Book\EntityFramework\RC1\Example\CH02\DbContextDemo\DbContextDemo\obj\Debug\DbContextDemo.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\RC1\Example\CH02\DbContextDemo\DbContextDemo\obj\Debug\DbContextDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH02\DbContextDemo\DbContextDemo\obj\Debug\DbContextDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbContextDemo\DbContextDemo\bin\Debug\DbContextDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbContextDemo\DbContextDemo\bin\Debug\DbContextDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbContextDemo\DbContextDemo\bin\Debug\DbContextDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbContextDemo\DbContextDemo\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbContextDemo\DbContextDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbContextDemo\DbContextDemo\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbContextDemo\DbContextDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbContextDemo\DbContextDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbContextDemo\DbContextDemo\obj\Debug\DbContextDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbContextDemo\DbContextDemo\obj\Debug\DbContextDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbContextDemo\DbContextDemo\obj\Debug\DbContextDemo.csprojResolveAssemblyReference.cache

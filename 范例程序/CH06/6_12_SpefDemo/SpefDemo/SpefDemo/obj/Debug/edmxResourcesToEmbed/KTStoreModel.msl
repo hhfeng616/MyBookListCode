@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="KTStoreModelStoreContainer" CdmEntityContainer="KTStoreEntities">
+    <EntitySetMapping Name="Products">
+      <EntityTypeMapping TypeName="KTStoreModel.Product">
+        <MappingFragment StoreEntitySet="Product">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="SPrice" ColumnName="SPrice" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="ProductList" FunctionName="KTStoreModel.Store.ProductList">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="KTStoreModel.ProductList_Result">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="SPrice" ColumnName="SPrice" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="GetProductByName" FunctionName="KTStoreModel.Store.GetProductByName">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="KTStoreModel.GetProductByName_Result">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="SPrice" ColumnName="SPrice" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SetSPriceById" FunctionName="KTStoreModel.Store.SetSPriceById" />
+  </EntityContainerMapping>
+</Mapping>

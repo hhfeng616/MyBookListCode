@@ -1,0 +1,41 @@
+D:\Book\EntityFramework\RC1\Example\CH02\LocalDemo\LocalDemo\bin\Debug\LocalDemo.exe.config
+D:\Book\EntityFramework\RC1\Example\CH02\LocalDemo\LocalDemo\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\RC1\Example\CH02\LocalDemo\LocalDemo\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\RC1\Example\CH02\LocalDemo\LocalDemo\bin\Debug\LocalDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH02\LocalDemo\LocalDemo\bin\Debug\LocalDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH02\LocalDemo\LocalDemo\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\RC1\Example\CH02\LocalDemo\LocalDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\RC1\Example\CH02\LocalDemo\LocalDemo\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\RC1\Example\CH02\LocalDemo\LocalDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\RC1\Example\CH02\LocalDemo\LocalDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Book\EntityFramework\RC1\Example\CH02\LocalDemo\LocalDemo\obj\Debug\LocalDemo.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\RC1\Example\CH02\LocalDemo\LocalDemo\obj\Debug\LocalDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH02\LocalDemo\LocalDemo\obj\Debug\LocalDemo.pdb
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH02\2_9_LocalDemo\LocalDemo\LocalDemo\bin\Debug\LocalDemo.exe.config
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH02\2_9_LocalDemo\LocalDemo\LocalDemo\obj\Debug\LocalDemo.exe
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH02\2_9_LocalDemo\LocalDemo\LocalDemo\obj\Debug\LocalDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LocalDemo\LocalDemo\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LocalDemo\LocalDemo\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LocalDemo\LocalDemo\bin\Debug\LocalDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LocalDemo\LocalDemo\bin\Debug\LocalDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LocalDemo\LocalDemo\bin\Debug\LocalDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LocalDemo\LocalDemo\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LocalDemo\LocalDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LocalDemo\LocalDemo\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LocalDemo\LocalDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LocalDemo\LocalDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LocalDemo\LocalDemo\obj\Debug\LocalDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LocalDemo\LocalDemo\obj\Debug\LocalDemo.pdb
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序备份\CH02\2_9_LocalDemo_2_10_LoadDemo\LocalDemo\LocalDemo\bin\Debug\KTStore.mdf
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序备份\CH02\2_9_LocalDemo_2_10_LoadDemo\LocalDemo\LocalDemo\bin\Debug\KTStore_log.ldf
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序备份\CH02\2_9_LocalDemo_2_10_LoadDemo\LocalDemo\LocalDemo\bin\Debug\LocalDemo.exe.config
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序备份\CH02\2_9_LocalDemo_2_10_LoadDemo\LocalDemo\LocalDemo\bin\Debug\LocalDemo.exe
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序备份\CH02\2_9_LocalDemo_2_10_LoadDemo\LocalDemo\LocalDemo\bin\Debug\LocalDemo.pdb
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序备份\CH02\2_9_LocalDemo_2_10_LoadDemo\LocalDemo\LocalDemo\bin\Debug\EntityFramework.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序备份\CH02\2_9_LocalDemo_2_10_LoadDemo\LocalDemo\LocalDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序备份\CH02\2_9_LocalDemo_2_10_LoadDemo\LocalDemo\LocalDemo\bin\Debug\EntityFramework.xml
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序备份\CH02\2_9_LocalDemo_2_10_LoadDemo\LocalDemo\LocalDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序备份\CH02\2_9_LocalDemo_2_10_LoadDemo\LocalDemo\LocalDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序备份\CH02\2_9_LocalDemo_2_10_LoadDemo\LocalDemo\LocalDemo\obj\Debug\LocalDemo.exe
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序备份\CH02\2_9_LocalDemo_2_10_LoadDemo\LocalDemo\LocalDemo\obj\Debug\LocalDemo.pdb
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序备份\CH02\2_9_LocalDemo_2_10_LoadDemo\LocalDemo\LocalDemo\obj\Debug\LocalDemo.csprojResolveAssemblyReference.cache

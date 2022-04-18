@@ -1,0 +1,12 @@
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AsyncDemo\AsyncDemo\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AsyncDemo\AsyncDemo\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AsyncDemo\AsyncDemo\bin\Debug\AsyncDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AsyncDemo\AsyncDemo\bin\Debug\AsyncDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AsyncDemo\AsyncDemo\bin\Debug\AsyncDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AsyncDemo\AsyncDemo\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AsyncDemo\AsyncDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AsyncDemo\AsyncDemo\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AsyncDemo\AsyncDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AsyncDemo\AsyncDemo\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AsyncDemo\AsyncDemo\obj\Debug\AsyncDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\AsyncDemo\AsyncDemo\obj\Debug\AsyncDemo.pdb

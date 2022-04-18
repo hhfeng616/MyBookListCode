@@ -1,0 +1,38 @@
+D:\Book\Xamarin\Example\TEST\WhereDemo\WhereDemo\bin\Debug\WhereDemo.exe.config
+D:\Book\Xamarin\Example\TEST\WhereDemo\WhereDemo\bin\Debug\KTStore.mdf
+D:\Book\Xamarin\Example\TEST\WhereDemo\WhereDemo\bin\Debug\KTStore_log.ldf
+D:\Book\Xamarin\Example\TEST\WhereDemo\WhereDemo\bin\Debug\WhereDemo.exe
+D:\Book\Xamarin\Example\TEST\WhereDemo\WhereDemo\bin\Debug\WhereDemo.pdb
+D:\Book\Xamarin\Example\TEST\WhereDemo\WhereDemo\bin\Debug\EntityFramework.dll
+D:\Book\Xamarin\Example\TEST\WhereDemo\WhereDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\Xamarin\Example\TEST\WhereDemo\WhereDemo\bin\Debug\EntityFramework.xml
+D:\Book\Xamarin\Example\TEST\WhereDemo\WhereDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\Xamarin\Example\TEST\WhereDemo\WhereDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Book\Xamarin\Example\TEST\WhereDemo\WhereDemo\obj\Debug\WhereDemo.csprojResolveAssemblyReference.cache
+D:\Book\Xamarin\Example\TEST\WhereDemo\WhereDemo\obj\Debug\WhereDemo.exe
+D:\Book\Xamarin\Example\TEST\WhereDemo\WhereDemo\obj\Debug\WhereDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH03\WhereDemo\WhereDemo\bin\Debug\WhereDemo.exe.config
+D:\Book\EntityFramework\RC1\Example\CH03\WhereDemo\WhereDemo\obj\Debug\WhereDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH03\WhereDemo\WhereDemo\obj\Debug\WhereDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH03\WhereDemo\WhereDemo\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\RC1\Example\CH03\WhereDemo\WhereDemo\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\RC1\Example\CH03\WhereDemo\WhereDemo\bin\Debug\WhereDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH03\WhereDemo\WhereDemo\bin\Debug\WhereDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH03\WhereDemo\WhereDemo\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\RC1\Example\CH03\WhereDemo\WhereDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\RC1\Example\CH03\WhereDemo\WhereDemo\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\RC1\Example\CH03\WhereDemo\WhereDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\RC1\Example\CH03\WhereDemo\WhereDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Book\EntityFramework\RC1\Example\CH03\WhereDemo\WhereDemo\obj\Debug\WhereDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WhereDemo\WhereDemo\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WhereDemo\WhereDemo\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WhereDemo\WhereDemo\bin\Debug\WhereDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WhereDemo\WhereDemo\bin\Debug\WhereDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WhereDemo\WhereDemo\bin\Debug\WhereDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WhereDemo\WhereDemo\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WhereDemo\WhereDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WhereDemo\WhereDemo\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WhereDemo\WhereDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WhereDemo\WhereDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WhereDemo\WhereDemo\obj\Debug\WhereDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WhereDemo\WhereDemo\obj\Debug\WhereDemo.pdb

@@ -1,0 +1,37 @@
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\SpefDemo\SpefDemo\bin\Debug\SpefDemo.exe.config
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\SpefDemo\SpefDemo\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\SpefDemo\SpefDemo\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\SpefDemo\SpefDemo\bin\Debug\SpefDemo.exe
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\SpefDemo\SpefDemo\bin\Debug\SpefDemo.pdb
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\SpefDemo\SpefDemo\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\SpefDemo\SpefDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\SpefDemo\SpefDemo\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\SpefDemo\SpefDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\SpefDemo\SpefDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\SpefDemo\SpefDemo\obj\Debug\SpefDemo.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\SpefDemo\SpefDemo\obj\Debug\SpefDemo.exe
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\SpefDemo\SpefDemo\obj\Debug\SpefDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH06\6_12_SpefDemo\SpefDemo\SpefDemo\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH06\6_12_SpefDemo\SpefDemo\SpefDemo\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH06\6_12_SpefDemo\SpefDemo\SpefDemo\bin\Debug\SpefDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH06\6_12_SpefDemo\SpefDemo\SpefDemo\bin\Debug\SpefDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH06\6_12_SpefDemo\SpefDemo\SpefDemo\bin\Debug\SpefDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH06\6_12_SpefDemo\SpefDemo\SpefDemo\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH06\6_12_SpefDemo\SpefDemo\SpefDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH06\6_12_SpefDemo\SpefDemo\SpefDemo\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH06\6_12_SpefDemo\SpefDemo\SpefDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH06\6_12_SpefDemo\SpefDemo\SpefDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH06\6_12_SpefDemo\SpefDemo\SpefDemo\obj\Debug\SpefDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH06\6_12_SpefDemo\SpefDemo\SpefDemo\obj\Debug\SpefDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SpefDemo\SpefDemo\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SpefDemo\SpefDemo\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SpefDemo\SpefDemo\bin\Debug\SpefDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SpefDemo\SpefDemo\bin\Debug\SpefDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SpefDemo\SpefDemo\bin\Debug\SpefDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SpefDemo\SpefDemo\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SpefDemo\SpefDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SpefDemo\SpefDemo\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SpefDemo\SpefDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SpefDemo\SpefDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SpefDemo\SpefDemo\obj\Debug\SpefDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SpefDemo\SpefDemo\obj\Debug\SpefDemo.pdb

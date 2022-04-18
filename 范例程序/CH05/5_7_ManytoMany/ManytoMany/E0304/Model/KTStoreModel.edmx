@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="NSKTStoreModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Author">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Name" Type="nvarchar(max)" />
+        </EntityType>
+        <EntityType Name="Book">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Title" Type="nvarchar(max)" />
+          <Property Name="Pages" Type="int" Nullable="false" />
+          <Property Name="ISBN" Type="nvarchar(max)" />
+          <Property Name="Publisher" Type="nvarchar(max)" />
+        </EntityType>
+        <EntityType Name="BookAuthor">
+          <Key>
+            <PropertyRef Name="BookId" />
+            <PropertyRef Name="AuthorId" />
+          </Key>
+          <Property Name="BookId" Type="int" Nullable="false" />
+          <Property Name="AuthorId" Type="int" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_dbo_BookAuthor_dbo_Author_Author_Id">
+          <End Role="Author" Type="Self.Author" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="BookAuthor" Type="Self.BookAuthor" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Author">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="BookAuthor">
+              <PropertyRef Name="AuthorId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_dbo_BookAuthor_dbo_Book_Book_Id">
+          <End Role="Book" Type="Self.Book" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="BookAuthor" Type="Self.BookAuthor" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Book">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="BookAuthor">
+              <PropertyRef Name="BookId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="NSKTStoreModelStoreContainer">
+          <EntitySet Name="Author" EntityType="Self.Author" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Book" EntityType="Self.Book" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="BookAuthor" EntityType="Self.BookAuthor" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_dbo_BookAuthor_dbo_Author_Author_Id" Association="Self.FK_dbo_BookAuthor_dbo_Author_Author_Id">
+            <End Role="Author" EntitySet="Author" />
+            <End Role="BookAuthor" EntitySet="BookAuthor" />
+          </AssociationSet>
+          <AssociationSet Name="FK_dbo_BookAuthor_dbo_Book_Book_Id" Association="Self.FK_dbo_BookAuthor_dbo_Book_Book_Id">
+            <End Role="Book" EntitySet="Book" />
+            <End Role="BookAuthor" EntitySet="BookAuthor" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="NSKTStoreModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Author">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Book" Relationship="Self.BookAuthor" FromRole="Author" ToRole="Book" />
+        </EntityType>
+        <EntityType Name="Book">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Title" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="Pages" Type="Int32" Nullable="false" />
+          <Property Name="ISBN" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="Publisher" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Author" Relationship="Self.BookAuthor" FromRole="Book" ToRole="Author" />
+        </EntityType>
+        <Association Name="BookAuthor">
+          <End Role="Author" Type="Self.Author" Multiplicity="*" />
+          <End Role="Book" Type="Self.Book" Multiplicity="*" />
+        </Association>
+        <EntityContainer Name="KTStoreEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Author" EntityType="Self.Author" />
+          <EntitySet Name="Book" EntityType="Self.Book" />
+          <AssociationSet Name="BookAuthor" Association="Self.BookAuthor">
+            <End Role="Author" EntitySet="Author" />
+            <End Role="Book" EntitySet="Book" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="NSKTStoreModelStoreContainer" CdmEntityContainer="KTStoreEntities">
+          <EntitySetMapping Name="Author">
+            <EntityTypeMapping TypeName="NSKTStoreModel.Author">
+              <MappingFragment StoreEntitySet="Author">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Book">
+            <EntityTypeMapping TypeName="NSKTStoreModel.Book">
+              <MappingFragment StoreEntitySet="Book">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Title" ColumnName="Title" />
+                <ScalarProperty Name="Pages" ColumnName="Pages" />
+                <ScalarProperty Name="ISBN" ColumnName="ISBN" />
+                <ScalarProperty Name="Publisher" ColumnName="Publisher" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <AssociationSetMapping Name="BookAuthor" TypeName="NSKTStoreModel.BookAuthor" StoreEntitySet="BookAuthor">
+            <EndProperty Name="Author">
+              <ScalarProperty Name="Id" ColumnName="AuthorId" />
+            </EndProperty>
+            <EndProperty Name="Book">
+              <ScalarProperty Name="Id" ColumnName="BookId" />
+            </EndProperty>
+          </AssociationSetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="無" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

@@ -1,0 +1,48 @@
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\ComplexTypeDemo.exe.config
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\ComplexTypeDemo.exe
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\ComplexTypeDemo.pdb
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\ComplexTypeDemo\ComplexTypeDemo\obj\Debug\ComplexTypeDemo.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\ComplexTypeDemo\ComplexTypeDemo\obj\Debug\ComplexTypeDemo.exe
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\ComplexTypeDemo\ComplexTypeDemo\obj\Debug\ComplexTypeDemo.pdb
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\ComplexTypeDemo.exe.config
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\ComplexTypeDemo\ComplexTypeDemo\obj\Debug\ComplexTypeDemo.exe
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\ComplexTypeDemo\ComplexTypeDemo\obj\Debug\ComplexTypeDemo.pdb
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\ComplexTypeDemo.exe
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\ComplexTypeDemo.pdb
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\ComplexTypeDemo\ComplexTypeDemo\obj\Debug\ComplexTypeDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\ComplexTypeDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\ComplexTypeDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\ComplexTypeDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ComplexTypeDemo\ComplexTypeDemo\obj\Debug\ComplexTypeDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ComplexTypeDemo\ComplexTypeDemo\obj\Debug\ComplexTypeDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ComplexTypeDemo\ComplexTypeDemo\obj\Debug\ComplexTypeDemo.pdb
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_22_ComplexTypeDemo\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\KTStore.mdf
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_22_ComplexTypeDemo\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\KTStore_log.ldf
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_22_ComplexTypeDemo\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\ComplexTypeDemo.exe.config
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_22_ComplexTypeDemo\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\ComplexTypeDemo.exe
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_22_ComplexTypeDemo\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\ComplexTypeDemo.pdb
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_22_ComplexTypeDemo\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\EntityFramework.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_22_ComplexTypeDemo\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_22_ComplexTypeDemo\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\EntityFramework.xml
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_22_ComplexTypeDemo\ComplexTypeDemo\ComplexTypeDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_22_ComplexTypeDemo\ComplexTypeDemo\ComplexTypeDemo\obj\Debug\ComplexTypeDemo.csprojResolveAssemblyReference.cache
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_22_ComplexTypeDemo\ComplexTypeDemo\ComplexTypeDemo\obj\Debug\ComplexTypeDemo.exe
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_22_ComplexTypeDemo\ComplexTypeDemo\ComplexTypeDemo\obj\Debug\ComplexTypeDemo.pdb

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="NSKTStoreModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Book">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Pages" Type="Int32" Nullable="false" />
+    <Property Name="ISBN" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Author" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Publisher" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Product" Relationship="Self.FK_dbo_Book_dbo_Product_Id" FromRole="Book" ToRole="Product" />
+  </EntityType>
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Product" Relationship="Self.FK_dbo_Product_dbo_Category_CategoryId" FromRole="Category" ToRole="Product" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="CategoryId" Type="Int32" Nullable="false" />
+    <Property Name="Price" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Book" Relationship="Self.FK_dbo_Book_dbo_Product_Id" FromRole="Product" ToRole="Book" />
+    <NavigationProperty Name="Category" Relationship="Self.FK_dbo_Product_dbo_Category_CategoryId" FromRole="Product" ToRole="Category" />
+  </EntityType>
+  <Association Name="FK_dbo_Book_dbo_Product_Id">
+    <End Role="Product" Type="Self.Product" Multiplicity="1" />
+    <End Role="Book" Type="Self.Book" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Book">
+        <PropertyRef Name="Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Product_dbo_Category_CategoryId">
+    <End Role="Category" Type="Self.Category" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Product" Type="Self.Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="CategoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="KTStoreEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Book" EntityType="Self.Book" />
+    <EntitySet Name="Category" EntityType="Self.Category" />
+    <EntitySet Name="Product" EntityType="Self.Product" />
+    <AssociationSet Name="FK_dbo_Book_dbo_Product_Id" Association="Self.FK_dbo_Book_dbo_Product_Id">
+      <End Role="Product" EntitySet="Product" />
+      <End Role="Book" EntitySet="Book" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Product_dbo_Category_CategoryId" Association="Self.FK_dbo_Product_dbo_Category_CategoryId">
+      <End Role="Category" EntitySet="Category" />
+      <End Role="Product" EntitySet="Product" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

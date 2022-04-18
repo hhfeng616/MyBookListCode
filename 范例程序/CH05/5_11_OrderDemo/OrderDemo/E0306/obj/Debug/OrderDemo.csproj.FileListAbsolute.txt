@@ -1,0 +1,22 @@
+D:\Book\EntityFramework\RC1\Example\CH05\E0306\E0306\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\RC1\Example\CH05\E0306\E0306\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\RC1\Example\CH05\E0306\E0306\bin\Debug\E0306.exe.config
+D:\Book\EntityFramework\RC1\Example\CH05\E0306\E0306\bin\Debug\E0306.exe
+D:\Book\EntityFramework\RC1\Example\CH05\E0306\E0306\bin\Debug\E0306.pdb
+D:\Book\EntityFramework\RC1\Example\CH05\E0306\E0306\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\RC1\Example\CH05\E0306\E0306\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\RC1\Example\CH05\E0306\E0306\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\RC1\Example\CH05\E0306\E0306\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\RC1\Example\CH05\E0306\E0306\obj\Debug\E0306.exe
+D:\Book\EntityFramework\RC1\Example\CH05\E0306\E0306\obj\Debug\E0306.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\OrderDemo\E0306\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\OrderDemo\E0306\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\OrderDemo\E0306\bin\Debug\E0306.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\OrderDemo\E0306\bin\Debug\E0306.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\OrderDemo\E0306\bin\Debug\E0306.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\OrderDemo\E0306\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\OrderDemo\E0306\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\OrderDemo\E0306\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\OrderDemo\E0306\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\OrderDemo\E0306\obj\Debug\E0306.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\OrderDemo\E0306\obj\Debug\E0306.pdb

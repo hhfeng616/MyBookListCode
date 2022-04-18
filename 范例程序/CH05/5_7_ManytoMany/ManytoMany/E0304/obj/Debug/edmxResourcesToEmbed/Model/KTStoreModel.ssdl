@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="NSKTStoreModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Author">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Book">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Title" Type="nvarchar(max)" />
+    <Property Name="Pages" Type="int" Nullable="false" />
+    <Property Name="ISBN" Type="nvarchar(max)" />
+    <Property Name="Publisher" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="BookAuthor">
+    <Key>
+      <PropertyRef Name="BookId" />
+      <PropertyRef Name="AuthorId" />
+    </Key>
+    <Property Name="BookId" Type="int" Nullable="false" />
+    <Property Name="AuthorId" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_dbo_BookAuthor_dbo_Author_Author_Id">
+    <End Role="Author" Type="Self.Author" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="BookAuthor" Type="Self.BookAuthor" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Author">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="BookAuthor">
+        <PropertyRef Name="AuthorId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_BookAuthor_dbo_Book_Book_Id">
+    <End Role="Book" Type="Self.Book" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="BookAuthor" Type="Self.BookAuthor" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Book">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="BookAuthor">
+        <PropertyRef Name="BookId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="NSKTStoreModelStoreContainer">
+    <EntitySet Name="Author" EntityType="Self.Author" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Book" EntityType="Self.Book" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="BookAuthor" EntityType="Self.BookAuthor" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_dbo_BookAuthor_dbo_Author_Author_Id" Association="Self.FK_dbo_BookAuthor_dbo_Author_Author_Id">
+      <End Role="Author" EntitySet="Author" />
+      <End Role="BookAuthor" EntitySet="BookAuthor" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_BookAuthor_dbo_Book_Book_Id" Association="Self.FK_dbo_BookAuthor_dbo_Book_Book_Id">
+      <End Role="Book" EntitySet="Book" />
+      <End Role="BookAuthor" EntitySet="BookAuthor" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

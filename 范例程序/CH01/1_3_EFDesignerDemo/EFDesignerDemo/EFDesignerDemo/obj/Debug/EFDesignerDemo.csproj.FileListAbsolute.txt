@@ -1,0 +1,11 @@
+c:\users\jun\documents\visual studio 2017\Projects\EFDesignerDemo\EFDesignerDemo\bin\Debug\EFDesignerDemo.exe.config
+c:\users\jun\documents\visual studio 2017\Projects\EFDesignerDemo\EFDesignerDemo\bin\Debug\EFDesignerDemo.exe
+c:\users\jun\documents\visual studio 2017\Projects\EFDesignerDemo\EFDesignerDemo\bin\Debug\EFDesignerDemo.pdb
+c:\users\jun\documents\visual studio 2017\Projects\EFDesignerDemo\EFDesignerDemo\bin\Debug\EntityFramework.dll
+c:\users\jun\documents\visual studio 2017\Projects\EFDesignerDemo\EFDesignerDemo\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\jun\documents\visual studio 2017\Projects\EFDesignerDemo\EFDesignerDemo\bin\Debug\EntityFramework.xml
+c:\users\jun\documents\visual studio 2017\Projects\EFDesignerDemo\EFDesignerDemo\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\jun\documents\visual studio 2017\Projects\EFDesignerDemo\EFDesignerDemo\bin\Debug\zh-Hans\EntityFramework.resources.dll
+c:\users\jun\documents\visual studio 2017\Projects\EFDesignerDemo\EFDesignerDemo\obj\Debug\EFDesignerDemo.csprojResolveAssemblyReference.cache
+c:\users\jun\documents\visual studio 2017\Projects\EFDesignerDemo\EFDesignerDemo\obj\Debug\EFDesignerDemo.exe
+c:\users\jun\documents\visual studio 2017\Projects\EFDesignerDemo\EFDesignerDemo\obj\Debug\EFDesignerDemo.pdb

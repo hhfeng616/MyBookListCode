@@ -1,0 +1,12 @@
+D:\Book\EntityFramework\RC1\Example\CH03\SelectionDemo\SelectionDemo\bin\Debug\SelectionDemo.exe.config
+D:\Book\EntityFramework\RC1\Example\CH03\SelectionDemo\SelectionDemo\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\RC1\Example\CH03\SelectionDemo\SelectionDemo\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\RC1\Example\CH03\SelectionDemo\SelectionDemo\bin\Debug\SelectionDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH03\SelectionDemo\SelectionDemo\bin\Debug\SelectionDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH03\SelectionDemo\SelectionDemo\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\RC1\Example\CH03\SelectionDemo\SelectionDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\RC1\Example\CH03\SelectionDemo\SelectionDemo\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\RC1\Example\CH03\SelectionDemo\SelectionDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\RC1\Example\CH03\SelectionDemo\SelectionDemo\obj\Debug\SelectionDemo.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\RC1\Example\CH03\SelectionDemo\SelectionDemo\obj\Debug\SelectionDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH03\SelectionDemo\SelectionDemo\obj\Debug\SelectionDemo.pdb

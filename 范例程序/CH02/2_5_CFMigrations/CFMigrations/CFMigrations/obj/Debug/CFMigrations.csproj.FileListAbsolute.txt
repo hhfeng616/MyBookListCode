@@ -1,0 +1,30 @@
+D:\Book\EntityFramework\RC1\Example\CH02\CFMigrations\CFMigrations\bin\Debug\CFMigrations.exe.config
+D:\Book\EntityFramework\RC1\Example\CH02\CFMigrations\CFMigrations\bin\Debug\CFMigrations.exe
+D:\Book\EntityFramework\RC1\Example\CH02\CFMigrations\CFMigrations\bin\Debug\CFMigrations.pdb
+D:\Book\EntityFramework\RC1\Example\CH02\CFMigrations\CFMigrations\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\RC1\Example\CH02\CFMigrations\CFMigrations\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\RC1\Example\CH02\CFMigrations\CFMigrations\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\RC1\Example\CH02\CFMigrations\CFMigrations\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\RC1\Example\CH02\CFMigrations\CFMigrations\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Book\EntityFramework\RC1\Example\CH02\CFMigrations\CFMigrations\obj\Debug\CFMigrations.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\RC1\Example\CH02\CFMigrations\CFMigrations\obj\Debug\CFMigrations.exe
+D:\Book\EntityFramework\RC1\Example\CH02\CFMigrations\CFMigrations\obj\Debug\CFMigrations.pdb
+D:\Book\EntityFramework\RC1\Example\CH02\CFMigrations\CFMigrations\obj\Debug\CFMigrations.Migrations.AddProduct.resources
+D:\Book\EntityFramework\RC1\Example\CH02\CFMigrations\CFMigrations\obj\Debug\CFMigrations.csproj.GenerateResource.Cache
+D:\Book\EntityFramework\RC1\Example\CH02\CFMigrations\CFMigrations\obj\Debug\CFMigrations.Migrations.AddProductPrice.resources
+D:\Book\EntityFramework\RC1\Example\CH02\CFMigrations\CFMigrations\obj\Debug\CFMigrations.Migrations.AddProductQnantity.resources
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CFMigrations\CFMigrations\bin\Debug\CFMigrations.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CFMigrations\CFMigrations\bin\Debug\CFMigrations.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CFMigrations\CFMigrations\bin\Debug\CFMigrations.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CFMigrations\CFMigrations\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CFMigrations\CFMigrations\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CFMigrations\CFMigrations\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CFMigrations\CFMigrations\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CFMigrations\CFMigrations\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CFMigrations\CFMigrations\obj\Debug\CFMigrations.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CFMigrations\CFMigrations\obj\Debug\CFMigrations.Migrations.AddProduct.resources
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CFMigrations\CFMigrations\obj\Debug\CFMigrations.Migrations.AddProductPrice.resources
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CFMigrations\CFMigrations\obj\Debug\CFMigrations.Migrations.AddProductQnantity.resources
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CFMigrations\CFMigrations\obj\Debug\CFMigrations.csproj.GenerateResource.Cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CFMigrations\CFMigrations\obj\Debug\CFMigrations.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CFMigrations\CFMigrations\obj\Debug\CFMigrations.pdb

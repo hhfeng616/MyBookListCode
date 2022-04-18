@@ -1,0 +1,5 @@
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\CodeFirstMM\CodeFirstMM\bin\Debug\CodeFirstMM.exe.config
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\CodeFirstMM\CodeFirstMM\bin\Debug\CodeFirstMM.exe
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\CodeFirstMM\CodeFirstMM\bin\Debug\CodeFirstMM.pdb
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\CodeFirstMM\CodeFirstMM\obj\Debug\CodeFirstMM.exe
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\CodeFirstMM\CodeFirstMM\obj\Debug\CodeFirstMM.pdb

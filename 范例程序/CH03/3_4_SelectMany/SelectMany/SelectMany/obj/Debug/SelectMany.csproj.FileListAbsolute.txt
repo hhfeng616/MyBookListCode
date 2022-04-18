@@ -1,0 +1,63 @@
+D:\Book\EntityFramework\RC1\Example\CH03\SelectMany\SelectMany\bin\Debug\SelectMany.exe.config
+D:\Book\EntityFramework\RC1\Example\CH03\SelectMany\SelectMany\bin\Debug\SelectMany.exe
+D:\Book\EntityFramework\RC1\Example\CH03\SelectMany\SelectMany\bin\Debug\SelectMany.pdb
+D:\Book\EntityFramework\RC1\Example\CH03\SelectMany\SelectMany\obj\Debug\SelectMany.exe
+D:\Book\EntityFramework\RC1\Example\CH03\SelectMany\SelectMany\obj\Debug\SelectMany.pdb
+D:\Book\EntityFramework\RC1\Example\CH03\SelectMany\SelectMany\obj\Debug\SelectMany.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\RC1\Example\CH03\SelectMany\SelectMany\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\RC1\Example\CH03\SelectMany\SelectMany\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\RC1\Example\CH03\SelectMany\SelectMany\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\RC1\Example\CH03\SelectMany\SelectMany\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\RC1\Example\CH03\SelectMany\SelectMany\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\RC1\Example\CH03\SelectMany\SelectMany\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\RC1\Example\CH03\SelectMany\SelectMany\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SelectMany\SelectMany\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SelectMany\SelectMany\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SelectMany\SelectMany\bin\Debug\SelectMany.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SelectMany\SelectMany\bin\Debug\SelectMany.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SelectMany\SelectMany\bin\Debug\SelectMany.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SelectMany\SelectMany\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SelectMany\SelectMany\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SelectMany\SelectMany\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SelectMany\SelectMany\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SelectMany\SelectMany\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SelectMany\SelectMany\obj\Debug\SelectMany.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SelectMany\SelectMany\obj\Debug\SelectMany.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_4_SelectMany\SelectMany\SelectMany\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_4_SelectMany\SelectMany\SelectMany\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_4_SelectMany\SelectMany\SelectMany\bin\Debug\SelectMany.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_4_SelectMany\SelectMany\SelectMany\bin\Debug\SelectMany.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_4_SelectMany\SelectMany\SelectMany\bin\Debug\SelectMany.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_4_SelectMany\SelectMany\SelectMany\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_4_SelectMany\SelectMany\SelectMany\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_4_SelectMany\SelectMany\SelectMany\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_4_SelectMany\SelectMany\SelectMany\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_4_SelectMany\SelectMany\SelectMany\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_4_SelectMany\SelectMany\SelectMany\obj\Debug\SelectMany.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_4_SelectMany\SelectMany\SelectMany\obj\Debug\SelectMany.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_4_SelectMany\SelectMany\SelectMany\obj\Debug\SelectMany.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\3_4_SelectMany\SelectMany\SelectMany\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\3_4_SelectMany\SelectMany\SelectMany\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\3_4_SelectMany\SelectMany\SelectMany\bin\Debug\SelectMany.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\3_4_SelectMany\SelectMany\SelectMany\bin\Debug\SelectMany.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\3_4_SelectMany\SelectMany\SelectMany\bin\Debug\SelectMany.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\3_4_SelectMany\SelectMany\SelectMany\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\3_4_SelectMany\SelectMany\SelectMany\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\3_4_SelectMany\SelectMany\SelectMany\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\3_4_SelectMany\SelectMany\SelectMany\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\3_4_SelectMany\SelectMany\SelectMany\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\3_4_SelectMany\SelectMany\SelectMany\obj\Debug\SelectMany.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\3_4_SelectMany\SelectMany\SelectMany\obj\Debug\SelectMany.pdb
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_4_SelectMany\SelectMany\SelectMany\bin\Debug\KTStore.mdf
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_4_SelectMany\SelectMany\SelectMany\bin\Debug\KTStore_log.ldf
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_4_SelectMany\SelectMany\SelectMany\bin\Debug\SelectMany.exe.config
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_4_SelectMany\SelectMany\SelectMany\bin\Debug\SelectMany.exe
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_4_SelectMany\SelectMany\SelectMany\bin\Debug\SelectMany.pdb
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_4_SelectMany\SelectMany\SelectMany\bin\Debug\EntityFramework.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_4_SelectMany\SelectMany\SelectMany\bin\Debug\EntityFramework.SqlServer.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_4_SelectMany\SelectMany\SelectMany\bin\Debug\EntityFramework.xml
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_4_SelectMany\SelectMany\SelectMany\bin\Debug\EntityFramework.SqlServer.xml
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_4_SelectMany\SelectMany\SelectMany\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_4_SelectMany\SelectMany\SelectMany\obj\Debug\SelectMany.csprojResolveAssemblyReference.cache
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_4_SelectMany\SelectMany\SelectMany\obj\Debug\SelectMany.exe
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_4_SelectMany\SelectMany\SelectMany\obj\Debug\SelectMany.pdb

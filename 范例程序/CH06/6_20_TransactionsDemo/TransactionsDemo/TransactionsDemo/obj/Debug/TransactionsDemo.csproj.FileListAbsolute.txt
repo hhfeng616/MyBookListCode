@@ -1,0 +1,36 @@
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\TransactionsDemo\TransactionsDemo\bin\Debug\TransactionsDemo.exe.config
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\TransactionsDemo\TransactionsDemo\bin\Debug\TransactionsDemo.exe
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\TransactionsDemo\TransactionsDemo\bin\Debug\TransactionsDemo.pdb
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\TransactionsDemo\TransactionsDemo\bin\Debug\EntityFramework.dll
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\TransactionsDemo\TransactionsDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\TransactionsDemo\TransactionsDemo\bin\Debug\EntityFramework.xml
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\TransactionsDemo\TransactionsDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\TransactionsDemo\TransactionsDemo\obj\Debug\TransactionsDemo.csprojResolveAssemblyReference.cache
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\TransactionsDemo\TransactionsDemo\obj\Debug\TransactionsDemo.exe
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\TransactionsDemo\TransactionsDemo\obj\Debug\TransactionsDemo.pdb
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\TransactionsDemo\TransactionsDemo\obj\Debug\TransactionsDemo.Migrations.InitialCreate.resources
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH05\TransactionsDemo\TransactionsDemo\obj\Debug\TransactionsDemo.csproj.GenerateResource.Cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TransactionsDemo\TransactionsDemo\bin\Debug\TransactionsDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TransactionsDemo\TransactionsDemo\bin\Debug\TransactionsDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TransactionsDemo\TransactionsDemo\bin\Debug\TransactionsDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TransactionsDemo\TransactionsDemo\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TransactionsDemo\TransactionsDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TransactionsDemo\TransactionsDemo\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TransactionsDemo\TransactionsDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TransactionsDemo\TransactionsDemo\obj\Debug\TransactionsDemo.Migrations.InitialCreate.resources
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TransactionsDemo\TransactionsDemo\obj\Debug\TransactionsDemo.csproj.GenerateResource.Cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TransactionsDemo\TransactionsDemo\obj\Debug\TransactionsDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TransactionsDemo\TransactionsDemo\obj\Debug\TransactionsDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TransactionsDemo\TransactionsDemo\obj\Debug\TransactionsDemo.csprojResolveAssemblyReference.cache
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_20_TransactionsDemo\TransactionsDemo\TransactionsDemo\bin\Debug\TransactionsDemo.exe.config
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_20_TransactionsDemo\TransactionsDemo\TransactionsDemo\bin\Debug\TransactionsDemo.exe
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_20_TransactionsDemo\TransactionsDemo\TransactionsDemo\bin\Debug\TransactionsDemo.pdb
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_20_TransactionsDemo\TransactionsDemo\TransactionsDemo\bin\Debug\EntityFramework.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_20_TransactionsDemo\TransactionsDemo\TransactionsDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_20_TransactionsDemo\TransactionsDemo\TransactionsDemo\bin\Debug\EntityFramework.xml
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_20_TransactionsDemo\TransactionsDemo\TransactionsDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_20_TransactionsDemo\TransactionsDemo\TransactionsDemo\obj\Debug\TransactionsDemo.csprojResolveAssemblyReference.cache
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_20_TransactionsDemo\TransactionsDemo\TransactionsDemo\obj\Debug\TransactionsDemo.Migrations.InitialCreate.resources
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_20_TransactionsDemo\TransactionsDemo\TransactionsDemo\obj\Debug\TransactionsDemo.csproj.GenerateResource.Cache
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_20_TransactionsDemo\TransactionsDemo\TransactionsDemo\obj\Debug\TransactionsDemo.exe
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_20_TransactionsDemo\TransactionsDemo\TransactionsDemo\obj\Debug\TransactionsDemo.pdb

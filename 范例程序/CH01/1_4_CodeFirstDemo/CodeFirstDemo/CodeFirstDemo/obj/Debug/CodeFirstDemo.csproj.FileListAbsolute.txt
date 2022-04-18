@@ -1,0 +1,13 @@
+c:\users\jun\documents\visual studio 2017\Projects\CodeFirstDemo\CodeFirstDemo\bin\Debug\KTStore.mdf
+c:\users\jun\documents\visual studio 2017\Projects\CodeFirstDemo\CodeFirstDemo\bin\Debug\KTStore_log.ldf
+c:\users\jun\documents\visual studio 2017\Projects\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.exe.config
+c:\users\jun\documents\visual studio 2017\Projects\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.exe
+c:\users\jun\documents\visual studio 2017\Projects\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.pdb
+c:\users\jun\documents\visual studio 2017\Projects\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.dll
+c:\users\jun\documents\visual studio 2017\Projects\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\jun\documents\visual studio 2017\Projects\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.xml
+c:\users\jun\documents\visual studio 2017\Projects\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\jun\documents\visual studio 2017\Projects\CodeFirstDemo\CodeFirstDemo\bin\Debug\zh-Hans\EntityFramework.resources.dll
+c:\users\jun\documents\visual studio 2017\Projects\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.csprojResolveAssemblyReference.cache
+c:\users\jun\documents\visual studio 2017\Projects\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.exe
+c:\users\jun\documents\visual studio 2017\Projects\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.pdb

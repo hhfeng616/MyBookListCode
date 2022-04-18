@@ -1,0 +1,51 @@
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\LinqEFDesigner\LinqEFDesigner\bin\Debug\LinqEFDesigner.exe.config
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\LinqEFDesigner\LinqEFDesigner\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\LinqEFDesigner\LinqEFDesigner\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\LinqEFDesigner\LinqEFDesigner\bin\Debug\LinqEFDesigner.exe
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\LinqEFDesigner\LinqEFDesigner\bin\Debug\LinqEFDesigner.pdb
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\LinqEFDesigner\LinqEFDesigner\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\LinqEFDesigner\LinqEFDesigner\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\LinqEFDesigner\LinqEFDesigner\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\LinqEFDesigner\LinqEFDesigner\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\LinqEFDesigner\LinqEFDesigner\obj\Debug\LinqEFDesigner.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\LinqEFDesigner\LinqEFDesigner\obj\Debug\LinqEFDesigner.exe
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\LinqEFDesigner\LinqEFDesigner\obj\Debug\LinqEFDesigner.pdb
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LinqEFDesigner\LinqEFDesigner\bin\Debug\LinqEFDesigner.exe.config
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LinqEFDesigner\LinqEFDesigner\obj\Debug\LinqEFDesigner.exe
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LinqEFDesigner\LinqEFDesigner\obj\Debug\LinqEFDesigner.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LinqEFDesigner\LinqEFDesigner\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LinqEFDesigner\LinqEFDesigner\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LinqEFDesigner\LinqEFDesigner\bin\Debug\LinqEFDesigner.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LinqEFDesigner\LinqEFDesigner\bin\Debug\LinqEFDesigner.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LinqEFDesigner\LinqEFDesigner\bin\Debug\LinqEFDesigner.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LinqEFDesigner\LinqEFDesigner\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LinqEFDesigner\LinqEFDesigner\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LinqEFDesigner\LinqEFDesigner\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LinqEFDesigner\LinqEFDesigner\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LinqEFDesigner\LinqEFDesigner\obj\Debug\LinqEFDesigner.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LinqEFDesigner\LinqEFDesigner\obj\Debug\LinqEFDesigner.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LinqEFDesigner\LinqEFDesigner\obj\Debug\LinqEFDesigner.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_1_LinqEFDesigner\LinqEFDesigner\LinqEFDesigner\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_1_LinqEFDesigner\LinqEFDesigner\LinqEFDesigner\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_1_LinqEFDesigner\LinqEFDesigner\LinqEFDesigner\bin\Debug\LinqEFDesigner.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_1_LinqEFDesigner\LinqEFDesigner\LinqEFDesigner\bin\Debug\LinqEFDesigner.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_1_LinqEFDesigner\LinqEFDesigner\LinqEFDesigner\bin\Debug\LinqEFDesigner.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_1_LinqEFDesigner\LinqEFDesigner\LinqEFDesigner\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_1_LinqEFDesigner\LinqEFDesigner\LinqEFDesigner\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_1_LinqEFDesigner\LinqEFDesigner\LinqEFDesigner\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_1_LinqEFDesigner\LinqEFDesigner\LinqEFDesigner\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_1_LinqEFDesigner\LinqEFDesigner\LinqEFDesigner\obj\Debug\LinqEFDesigner.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_1_LinqEFDesigner\LinqEFDesigner\LinqEFDesigner\obj\Debug\LinqEFDesigner.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_1_LinqEFDesigner\LinqEFDesigner\LinqEFDesigner\obj\Debug\LinqEFDesigner.pdb
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_1_LinqEFDesigner\LinqEFDesigner\LinqEFDesigner\bin\Debug\KTStore.mdf
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_1_LinqEFDesigner\LinqEFDesigner\LinqEFDesigner\bin\Debug\KTStore_log.ldf
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_1_LinqEFDesigner\LinqEFDesigner\LinqEFDesigner\bin\Debug\LinqEFDesigner.exe.config
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_1_LinqEFDesigner\LinqEFDesigner\LinqEFDesigner\bin\Debug\LinqEFDesigner.exe
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_1_LinqEFDesigner\LinqEFDesigner\LinqEFDesigner\bin\Debug\LinqEFDesigner.pdb
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_1_LinqEFDesigner\LinqEFDesigner\LinqEFDesigner\bin\Debug\EntityFramework.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_1_LinqEFDesigner\LinqEFDesigner\LinqEFDesigner\bin\Debug\EntityFramework.SqlServer.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_1_LinqEFDesigner\LinqEFDesigner\LinqEFDesigner\bin\Debug\EntityFramework.xml
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_1_LinqEFDesigner\LinqEFDesigner\LinqEFDesigner\bin\Debug\EntityFramework.SqlServer.xml
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_1_LinqEFDesigner\LinqEFDesigner\LinqEFDesigner\obj\Debug\LinqEFDesigner.csprojResolveAssemblyReference.cache
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_1_LinqEFDesigner\LinqEFDesigner\LinqEFDesigner\obj\Debug\LinqEFDesigner.exe
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_1_LinqEFDesigner\LinqEFDesigner\LinqEFDesigner\obj\Debug\LinqEFDesigner.pdb

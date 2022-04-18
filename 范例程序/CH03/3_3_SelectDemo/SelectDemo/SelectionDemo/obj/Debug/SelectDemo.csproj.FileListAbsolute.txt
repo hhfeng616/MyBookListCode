@@ -1,0 +1,35 @@
+D:\Book\EntityFramework\RC1\Example\CH03\SelectionDemo\SelectionDemo\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\RC1\Example\CH03\SelectionDemo\SelectionDemo\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\RC1\Example\CH03\SelectionDemo\SelectionDemo\bin\Debug\SelectionDemo.exe.config
+D:\Book\EntityFramework\RC1\Example\CH03\SelectionDemo\SelectionDemo\bin\Debug\SelectionDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH03\SelectionDemo\SelectionDemo\bin\Debug\SelectionDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH03\SelectionDemo\SelectionDemo\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\RC1\Example\CH03\SelectionDemo\SelectionDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\RC1\Example\CH03\SelectionDemo\SelectionDemo\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\RC1\Example\CH03\SelectionDemo\SelectionDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\RC1\Example\CH03\SelectionDemo\SelectionDemo\obj\Debug\SelectDemo.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\RC1\Example\CH03\SelectionDemo\SelectionDemo\obj\Debug\SelectionDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH03\SelectionDemo\SelectionDemo\obj\Debug\SelectionDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH03\SelectDemo\SelectionDemo\bin\Debug\SelectionDemo.exe.config
+D:\Book\EntityFramework\RC1\Example\CH03\SelectDemo\SelectionDemo\obj\Debug\SelectionDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH03\SelectDemo\SelectionDemo\obj\Debug\SelectionDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH03\SelectDemo\SelectionDemo\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\RC1\Example\CH03\SelectDemo\SelectionDemo\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\RC1\Example\CH03\SelectDemo\SelectionDemo\bin\Debug\SelectionDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH03\SelectDemo\SelectionDemo\bin\Debug\SelectionDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH03\SelectDemo\SelectionDemo\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\RC1\Example\CH03\SelectDemo\SelectionDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\RC1\Example\CH03\SelectDemo\SelectionDemo\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\RC1\Example\CH03\SelectDemo\SelectionDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\RC1\Example\CH03\SelectDemo\SelectionDemo\obj\Debug\SelectDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SelectDemo\SelectionDemo\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SelectDemo\SelectionDemo\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SelectDemo\SelectionDemo\bin\Debug\SelectionDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SelectDemo\SelectionDemo\bin\Debug\SelectionDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SelectDemo\SelectionDemo\bin\Debug\SelectionDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SelectDemo\SelectionDemo\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SelectDemo\SelectionDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SelectDemo\SelectionDemo\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SelectDemo\SelectionDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SelectDemo\SelectionDemo\obj\Debug\SelectionDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SelectDemo\SelectionDemo\obj\Debug\SelectionDemo.pdb

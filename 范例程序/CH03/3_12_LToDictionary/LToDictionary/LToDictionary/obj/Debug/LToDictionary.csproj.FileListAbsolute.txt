@@ -1,0 +1,23 @@
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LToDictionary\LToDictionary\bin\Debug\LToDictionary.exe.config
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LToDictionary\LToDictionary\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LToDictionary\LToDictionary\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LToDictionary\LToDictionary\bin\Debug\LToDictionary.exe
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LToDictionary\LToDictionary\bin\Debug\LToDictionary.pdb
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LToDictionary\LToDictionary\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LToDictionary\LToDictionary\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LToDictionary\LToDictionary\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LToDictionary\LToDictionary\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LToDictionary\LToDictionary\obj\Debug\LToDictionary.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LToDictionary\LToDictionary\obj\Debug\LToDictionary.exe
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LToDictionary\LToDictionary\obj\Debug\LToDictionary.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LToDictionary\LToDictionary\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LToDictionary\LToDictionary\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LToDictionary\LToDictionary\bin\Debug\LToDictionary.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LToDictionary\LToDictionary\bin\Debug\LToDictionary.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LToDictionary\LToDictionary\bin\Debug\LToDictionary.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LToDictionary\LToDictionary\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LToDictionary\LToDictionary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LToDictionary\LToDictionary\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LToDictionary\LToDictionary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LToDictionary\LToDictionary\obj\Debug\LToDictionary.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LToDictionary\LToDictionary\obj\Debug\LToDictionary.pdb

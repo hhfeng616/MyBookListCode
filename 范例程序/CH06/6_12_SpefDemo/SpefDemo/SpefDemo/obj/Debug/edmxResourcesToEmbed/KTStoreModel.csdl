@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="KTStoreModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Price" Type="Int32" Nullable="false" />
+    <Property Name="SPrice" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="KTStoreEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Products" EntityType="Self.Product" />
+    <FunctionImport Name="ProductList" ReturnType="Collection(KTStoreModel.ProductList_Result)" />
+    <FunctionImport Name="GetProductByName" ReturnType="Collection(KTStoreModel.GetProductByName_Result)">
+      <Parameter Name="P1" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="SetSPriceById">
+      <Parameter Name="P1" Mode="In" Type="Int32" />
+      <Parameter Name="P2" Mode="In" Type="Int32" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="ProductList_Result">
+    <Property Type="Int32" Name="Id" Nullable="false" />
+    <Property Type="String" Name="Name" Nullable="true" />
+    <Property Type="Int32" Name="Price" Nullable="false" />
+    <Property Type="Int32" Name="SPrice" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="GetProductByName_Result">
+    <Property Type="Int32" Name="Id" Nullable="false" />
+    <Property Type="String" Name="Name" Nullable="true" />
+    <Property Type="Int32" Name="Price" Nullable="false" />
+    <Property Type="Int32" Name="SPrice" Nullable="false" />
+  </ComplexType>
+</Schema>

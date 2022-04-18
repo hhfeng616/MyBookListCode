@@ -1,0 +1,47 @@
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\TPTDemo\TPTDemo\bin\Debug\TPTDemo.exe.config
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\TPTDemo\TPTDemo\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\TPTDemo\TPTDemo\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\TPTDemo\TPTDemo\bin\Debug\TPTDemo.exe
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\TPTDemo\TPTDemo\bin\Debug\TPTDemo.pdb
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\TPTDemo\TPTDemo\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\TPTDemo\TPTDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\TPTDemo\TPTDemo\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\TPTDemo\TPTDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\TPTDemo\TPTDemo\obj\Debug\TPTDemo.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\TPTDemo\TPTDemo\obj\Debug\TPTDemo.exe
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\TPTDemo\TPTDemo\obj\Debug\TPTDemo.pdb
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\TPTDemo\TPTDemo\bin\Debug\TPTDemo.exe.config
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\TPTDemo\TPTDemo\obj\Debug\TPTDemo.exe
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\TPTDemo\TPTDemo\obj\Debug\TPTDemo.pdb
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\TPTDemo\TPTDemo\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\TPTDemo\TPTDemo\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\TPTDemo\TPTDemo\bin\Debug\TPTDemo.exe
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\TPTDemo\TPTDemo\bin\Debug\TPTDemo.pdb
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\TPTDemo\TPTDemo\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\TPTDemo\TPTDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\TPTDemo\TPTDemo\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\TPTDemo\TPTDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\TPTDemo\TPTDemo\obj\Debug\TPTDemo.csprojResolveAssemblyReference.cache
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\TPTDemo\TPTDemo\bin\Debug\TPTDemo.exe.config
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\TPTDemo\TPTDemo\obj\Debug\TPTDemo.exe
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\TPTDemo\TPTDemo\obj\Debug\TPTDemo.pdb
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\TPTDemo\TPTDemo\bin\Debug\KTStore.mdf
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\TPTDemo\TPTDemo\bin\Debug\KTStore_log.ldf
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\TPTDemo\TPTDemo\bin\Debug\TPTDemo.exe
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\TPTDemo\TPTDemo\bin\Debug\TPTDemo.pdb
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\TPTDemo\TPTDemo\bin\Debug\EntityFramework.dll
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\TPTDemo\TPTDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\TPTDemo\TPTDemo\bin\Debug\EntityFramework.xml
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\TPTDemo\TPTDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\TPTDemo\TPTDemo\obj\Debug\TPTDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TPTDemo\TPTDemo\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TPTDemo\TPTDemo\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TPTDemo\TPTDemo\bin\Debug\TPTDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TPTDemo\TPTDemo\bin\Debug\TPTDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TPTDemo\TPTDemo\bin\Debug\TPTDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TPTDemo\TPTDemo\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TPTDemo\TPTDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TPTDemo\TPTDemo\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TPTDemo\TPTDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TPTDemo\TPTDemo\obj\Debug\TPTDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TPTDemo\TPTDemo\obj\Debug\TPTDemo.pdb

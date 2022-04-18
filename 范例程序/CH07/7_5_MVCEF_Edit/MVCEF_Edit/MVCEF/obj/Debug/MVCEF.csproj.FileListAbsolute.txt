@@ -1,0 +1,148 @@
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\roslyn\csc.exe
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\roslyn\System.Collections.Immutable.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\roslyn\System.Reflection.Metadata.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\roslyn\vbc.exe
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\roslyn\VBCSCompiler.exe
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\roslyn\VBCSCompiler.exe.config
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\MVCEF.dll.config
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\MVCEF.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\MVCEF.pdb
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\EntityFramework.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\Microsoft.Web.Infrastructure.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\System.Web.Helpers.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\System.Web.Mvc.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\System.Web.Razor.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\System.Web.Webpages.Deployment.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\System.Web.Webpages.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\System.Web.Webpages.Razor.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\EntityFramework.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\System.Web.Razor.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\System.Web.Webpages.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\System.Web.Webpages.Deployment.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\System.Web.Webpages.Razor.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\System.Web.Helpers.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\bin\System.Web.Mvc.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\obj\Debug\MVCEF.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\obj\Debug\MVCEF.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\MVCEF\MVCEF\obj\Debug\MVCEF.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\roslyn\csc.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\roslyn\vbc.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\MVCEF.dll.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\MVCEF.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\MVCEF.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\System.Web.Helpers.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\System.Web.Mvc.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\System.Web.Razor.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\System.Web.Webpages.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\System.Web.Webpages.Razor.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\System.Web.Razor.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\System.Web.Webpages.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\System.Web.Webpages.Razor.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\System.Web.Helpers.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\bin\System.Web.Mvc.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\obj\Debug\MVCEF.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\obj\Debug\MVCEF.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF - Source\MVCEF\obj\Debug\MVCEF.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\roslyn\csc.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\roslyn\vbc.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\MVCEF.dll.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\MVCEF.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\MVCEF.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\System.Web.Helpers.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\System.Web.Mvc.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\System.Web.Razor.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\System.Web.Webpages.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\System.Web.Webpages.Razor.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\System.Web.Razor.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\System.Web.Webpages.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\System.Web.Webpages.Razor.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\System.Web.Helpers.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\bin\System.Web.Mvc.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\obj\Debug\MVCEF.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\obj\Debug\MVCEF.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEFSearch\MVCEF\obj\Debug\MVCEF.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\roslyn\csc.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\roslyn\vbc.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\MVCEF.dll.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\MVCEF.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\MVCEF.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\System.Web.Helpers.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\System.Web.Mvc.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\System.Web.Razor.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\System.Web.Webpages.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\System.Web.Webpages.Razor.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\System.Web.Razor.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\System.Web.Webpages.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\System.Web.Webpages.Razor.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\System.Web.Helpers.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\bin\System.Web.Mvc.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\obj\Debug\MVCEF.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\obj\Debug\MVCEF.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\MVCEF_Edit\MVCEF\obj\Debug\MVCEF.csprojResolveAssemblyReference.cache

@@ -1,0 +1,24 @@
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\TimeStampSQL\TimeStampSQL\bin\Debug\TimeStampSQL.exe.config
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\TimeStampSQL\TimeStampSQL\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\TimeStampSQL\TimeStampSQL\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\TimeStampSQL\TimeStampSQL\bin\Debug\TimeStampSQL.exe
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\TimeStampSQL\TimeStampSQL\bin\Debug\TimeStampSQL.pdb
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\TimeStampSQL\TimeStampSQL\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\TimeStampSQL\TimeStampSQL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\TimeStampSQL\TimeStampSQL\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\TimeStampSQL\TimeStampSQL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\TimeStampSQL\TimeStampSQL\obj\Debug\TimeStampSQL.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\TimeStampSQL\TimeStampSQL\obj\Debug\TimeStampSQL.exe
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\TimeStampSQL\TimeStampSQL\obj\Debug\TimeStampSQL.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TimeStampSQL\TimeStampSQL\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TimeStampSQL\TimeStampSQL\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TimeStampSQL\TimeStampSQL\bin\Debug\TimeStampSQL.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TimeStampSQL\TimeStampSQL\bin\Debug\TimeStampSQL.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TimeStampSQL\TimeStampSQL\bin\Debug\TimeStampSQL.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TimeStampSQL\TimeStampSQL\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TimeStampSQL\TimeStampSQL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TimeStampSQL\TimeStampSQL\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TimeStampSQL\TimeStampSQL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TimeStampSQL\TimeStampSQL\obj\Debug\TimeStampSQL.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TimeStampSQL\TimeStampSQL\obj\Debug\TimeStampSQL.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\TimeStampSQL\TimeStampSQL\obj\Debug\TimeStampSQL.pdb

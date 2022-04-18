@@ -1,0 +1,35 @@
+D:\Book\EntityFramework\RC1\Example\CH03\JoinEF\LINQJoin\bin\Debug\LINQJoin.exe.config
+D:\Book\EntityFramework\RC1\Example\CH03\JoinEF\LINQJoin\obj\Debug\LINQJoin.exe
+D:\Book\EntityFramework\RC1\Example\CH03\JoinEF\LINQJoin\obj\Debug\LINQJoin.pdb
+D:\Book\EntityFramework\RC1\Example\CH03\JoinEF\LINQJoin\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\RC1\Example\CH03\JoinEF\LINQJoin\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\RC1\Example\CH03\JoinEF\LINQJoin\bin\Debug\LINQJoin.exe
+D:\Book\EntityFramework\RC1\Example\CH03\JoinEF\LINQJoin\bin\Debug\LINQJoin.pdb
+D:\Book\EntityFramework\RC1\Example\CH03\JoinEF\LINQJoin\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\RC1\Example\CH03\JoinEF\LINQJoin\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\RC1\Example\CH03\JoinEF\LINQJoin\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\RC1\Example\CH03\JoinEF\LINQJoin\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\RC1\Example\CH03\JoinEF\LINQJoin\obj\Debug\JoinEF.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\JoinEF\LINQJoin\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\JoinEF\LINQJoin\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\JoinEF\LINQJoin\bin\Debug\LINQJoin.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\JoinEF\LINQJoin\bin\Debug\LINQJoin.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\JoinEF\LINQJoin\bin\Debug\LINQJoin.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\JoinEF\LINQJoin\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\JoinEF\LINQJoin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\JoinEF\LINQJoin\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\JoinEF\LINQJoin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\JoinEF\LINQJoin\obj\Debug\LINQJoin.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\JoinEF\LINQJoin\obj\Debug\LINQJoin.pdb
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_16_JoinEF\JoinEF\LINQJoin\bin\Debug\KTStore.mdf
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_16_JoinEF\JoinEF\LINQJoin\bin\Debug\KTStore_log.ldf
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_16_JoinEF\JoinEF\LINQJoin\bin\Debug\LINQJoin.exe.config
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_16_JoinEF\JoinEF\LINQJoin\bin\Debug\LINQJoin.exe
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_16_JoinEF\JoinEF\LINQJoin\bin\Debug\LINQJoin.pdb
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_16_JoinEF\JoinEF\LINQJoin\bin\Debug\EntityFramework.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_16_JoinEF\JoinEF\LINQJoin\bin\Debug\EntityFramework.SqlServer.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_16_JoinEF\JoinEF\LINQJoin\bin\Debug\EntityFramework.xml
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_16_JoinEF\JoinEF\LINQJoin\bin\Debug\EntityFramework.SqlServer.xml
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_16_JoinEF\JoinEF\LINQJoin\obj\Debug\JoinEF.csprojResolveAssemblyReference.cache
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_16_JoinEF\JoinEF\LINQJoin\obj\Debug\LINQJoin.exe
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH03\3_16_JoinEF\JoinEF\LINQJoin\obj\Debug\LINQJoin.pdb

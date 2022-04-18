@@ -1,0 +1,35 @@
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH03\E0305\E0305\bin\Debug\E0305.exe.config
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH03\E0305\E0305\bin\Debug\KTStore.mdf
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH03\E0305\E0305\bin\Debug\KTStore_log.ldf
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH03\E0305\E0305\bin\Debug\E0305.exe
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH03\E0305\E0305\bin\Debug\E0305.pdb
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH03\E0305\E0305\bin\Debug\EntityFramework.dll
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH03\E0305\E0305\bin\Debug\EntityFramework.SqlServer.dll
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH03\E0305\E0305\bin\Debug\EntityFramework.xml
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH03\E0305\E0305\bin\Debug\EntityFramework.SqlServer.xml
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH03\E0305\E0305\obj\Debug\E0305.csprojResolveAssemblyReference.cache
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH03\E0305\E0305\obj\Debug\E0305.exe
+D:\2016\Coffee\NET\EntityFramework\EF_2016\EXAMPLE\CH03\E0305\E0305\obj\Debug\E0305.pdb
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\E0305\E0305\bin\Debug\E0305.exe.config
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\E0305\E0305\obj\Debug\E0305.exe
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\E0305\E0305\obj\Debug\E0305.pdb
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\E0305\E0305\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\E0305\E0305\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\E0305\E0305\bin\Debug\E0305.exe
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\E0305\E0305\bin\Debug\E0305.pdb
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\E0305\E0305\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\E0305\E0305\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\E0305\E0305\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\E0305\E0305\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH03\E0305\E0305\obj\Debug\E0305.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ManytoMany_P\E0305\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ManytoMany_P\E0305\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ManytoMany_P\E0305\bin\Debug\E0305.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ManytoMany_P\E0305\bin\Debug\E0305.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ManytoMany_P\E0305\bin\Debug\E0305.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ManytoMany_P\E0305\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ManytoMany_P\E0305\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ManytoMany_P\E0305\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ManytoMany_P\E0305\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ManytoMany_P\E0305\obj\Debug\E0305.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ManytoMany_P\E0305\obj\Debug\E0305.pdb

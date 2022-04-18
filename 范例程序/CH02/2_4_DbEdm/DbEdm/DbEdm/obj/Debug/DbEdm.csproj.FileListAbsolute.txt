@@ -1,0 +1,14 @@
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH02\2-4\DbEdm\DbEdm\bin\Debug\DbEdm.exe.config
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH02\2_4_DbEdm\DbEdm - 複製 - 複製\DbEdm\bin\Debug\DbEdm.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbEdm\DbEdm\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbEdm\DbEdm\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbEdm\DbEdm\bin\Debug\DbEdm.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbEdm\DbEdm\bin\Debug\DbEdm.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbEdm\DbEdm\bin\Debug\DbEdm.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbEdm\DbEdm\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbEdm\DbEdm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbEdm\DbEdm\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbEdm\DbEdm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbEdm\DbEdm\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbEdm\DbEdm\obj\Debug\DbEdm.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbEdm\DbEdm\obj\Debug\DbEdm.pdb

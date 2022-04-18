@@ -1,0 +1,12 @@
+D:\Book\EntityFramework\RC1\Example\CH04\ItemDemo\ItemDemo\bin\Debug\ItemDemo.exe.config
+D:\Book\EntityFramework\RC1\Example\CH04\ItemDemo\ItemDemo\bin\Debug\ItemDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH04\ItemDemo\ItemDemo\bin\Debug\ItemDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH04\ItemDemo\ItemDemo\obj\Debug\ItemDemo.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\RC1\Example\CH04\ItemDemo\ItemDemo\obj\Debug\ItemDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH04\ItemDemo\ItemDemo\obj\Debug\ItemDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ItemDemo\ItemDemo\bin\Debug\ItemDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ItemDemo\ItemDemo\bin\Debug\ItemDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ItemDemo\ItemDemo\bin\Debug\ItemDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ItemDemo\ItemDemo\obj\Debug\ItemDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ItemDemo\ItemDemo\obj\Debug\ItemDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ItemDemo\ItemDemo\obj\Debug\ItemDemo.csprojResolveAssemblyReference.cache

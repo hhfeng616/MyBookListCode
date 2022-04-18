@@ -1,0 +1,17 @@
+﻿@model IEnumerable<MVCR.Models.Product>
+
+
+
+
+<table >
+
+    <tr><th>编号</th><th>商品</th><th>价格</th></tr>
+    @foreach (var p in Model) { 
+ 
+        <tr>
+            <td>@p.Id</td>
+            <td>@p.Name</td>
+            <td>@p.Price</td>           
+        </tr>
+    }
+</table>

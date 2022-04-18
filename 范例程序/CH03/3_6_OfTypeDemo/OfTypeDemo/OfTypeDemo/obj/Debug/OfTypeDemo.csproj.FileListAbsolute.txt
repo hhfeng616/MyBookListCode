@@ -1,0 +1,38 @@
+D:\Book\EntityFramework\RC1\Example\CH03\OfTypeDemo\OfTypeDemo\bin\Debug\OfTypeDemo.exe.config
+D:\Book\EntityFramework\RC1\Example\CH03\OfTypeDemo\OfTypeDemo\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\RC1\Example\CH03\OfTypeDemo\OfTypeDemo\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\RC1\Example\CH03\OfTypeDemo\OfTypeDemo\bin\Debug\OfTypeDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH03\OfTypeDemo\OfTypeDemo\bin\Debug\OfTypeDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH03\OfTypeDemo\OfTypeDemo\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\RC1\Example\CH03\OfTypeDemo\OfTypeDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\RC1\Example\CH03\OfTypeDemo\OfTypeDemo\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\RC1\Example\CH03\OfTypeDemo\OfTypeDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\RC1\Example\CH03\OfTypeDemo\OfTypeDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Book\EntityFramework\RC1\Example\CH03\OfTypeDemo\OfTypeDemo\obj\Debug\OfTypeDemo.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\RC1\Example\CH03\OfTypeDemo\OfTypeDemo\obj\Debug\OfTypeDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH03\OfTypeDemo\OfTypeDemo\obj\Debug\OfTypeDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_6_OfTypeDemo\OfTypeDemo\OfTypeDemo\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_6_OfTypeDemo\OfTypeDemo\OfTypeDemo\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_6_OfTypeDemo\OfTypeDemo\OfTypeDemo\bin\Debug\OfTypeDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_6_OfTypeDemo\OfTypeDemo\OfTypeDemo\bin\Debug\OfTypeDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_6_OfTypeDemo\OfTypeDemo\OfTypeDemo\bin\Debug\OfTypeDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_6_OfTypeDemo\OfTypeDemo\OfTypeDemo\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_6_OfTypeDemo\OfTypeDemo\OfTypeDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_6_OfTypeDemo\OfTypeDemo\OfTypeDemo\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_6_OfTypeDemo\OfTypeDemo\OfTypeDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_6_OfTypeDemo\OfTypeDemo\OfTypeDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_6_OfTypeDemo\OfTypeDemo\OfTypeDemo\obj\Debug\OfTypeDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_6_OfTypeDemo\OfTypeDemo\OfTypeDemo\obj\Debug\OfTypeDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CH03\3_6_OfTypeDemo\OfTypeDemo\OfTypeDemo\obj\Debug\OfTypeDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\OfTypeDemo\OfTypeDemo\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\OfTypeDemo\OfTypeDemo\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\OfTypeDemo\OfTypeDemo\bin\Debug\OfTypeDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\OfTypeDemo\OfTypeDemo\bin\Debug\OfTypeDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\OfTypeDemo\OfTypeDemo\bin\Debug\OfTypeDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\OfTypeDemo\OfTypeDemo\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\OfTypeDemo\OfTypeDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\OfTypeDemo\OfTypeDemo\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\OfTypeDemo\OfTypeDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\OfTypeDemo\OfTypeDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\OfTypeDemo\OfTypeDemo\obj\Debug\OfTypeDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\OfTypeDemo\OfTypeDemo\obj\Debug\OfTypeDemo.pdb

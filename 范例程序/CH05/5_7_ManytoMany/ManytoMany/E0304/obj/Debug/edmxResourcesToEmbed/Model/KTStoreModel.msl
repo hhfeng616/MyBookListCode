@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="NSKTStoreModelStoreContainer" CdmEntityContainer="KTStoreEntities">
+    <EntitySetMapping Name="Author">
+      <EntityTypeMapping TypeName="NSKTStoreModel.Author">
+        <MappingFragment StoreEntitySet="Author">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Book">
+      <EntityTypeMapping TypeName="NSKTStoreModel.Book">
+        <MappingFragment StoreEntitySet="Book">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Pages" ColumnName="Pages" />
+          <ScalarProperty Name="ISBN" ColumnName="ISBN" />
+          <ScalarProperty Name="Publisher" ColumnName="Publisher" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="BookAuthor" TypeName="NSKTStoreModel.BookAuthor" StoreEntitySet="BookAuthor">
+      <EndProperty Name="Author">
+        <ScalarProperty Name="Id" ColumnName="AuthorId" />
+      </EndProperty>
+      <EndProperty Name="Book">
+        <ScalarProperty Name="Id" ColumnName="BookId" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,12 @@
+D:\Book\EntityFramework\RC1\Example\CH03\GroupDemo\GroupDemo\bin\Debug\GroupDemo.exe.config
+D:\Book\EntityFramework\RC1\Example\CH03\GroupDemo\GroupDemo\bin\Debug\GroupDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH03\GroupDemo\GroupDemo\bin\Debug\GroupDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH03\GroupDemo\GroupDemo\obj\Debug\GroupDemo.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\RC1\Example\CH03\GroupDemo\GroupDemo\obj\Debug\GroupDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH03\GroupDemo\GroupDemo\obj\Debug\GroupDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\GroupDemo\GroupDemo\bin\Debug\GroupDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\GroupDemo\GroupDemo\bin\Debug\GroupDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\GroupDemo\GroupDemo\bin\Debug\GroupDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\GroupDemo\GroupDemo\obj\Debug\GroupDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\GroupDemo\GroupDemo\obj\Debug\GroupDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\GroupDemo\GroupDemo\obj\Debug\GroupDemo.pdb

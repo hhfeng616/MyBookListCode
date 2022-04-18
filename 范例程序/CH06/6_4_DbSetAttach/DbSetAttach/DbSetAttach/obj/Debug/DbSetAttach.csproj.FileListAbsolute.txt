@@ -1,0 +1,36 @@
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\DbSetAttach\DbSetAttach\bin\Debug\DbSetAttach.exe.config
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\DbSetAttach\DbSetAttach\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\DbSetAttach\DbSetAttach\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\DbSetAttach\DbSetAttach\bin\Debug\DbSetAttach.exe
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\DbSetAttach\DbSetAttach\bin\Debug\DbSetAttach.pdb
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\DbSetAttach\DbSetAttach\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\DbSetAttach\DbSetAttach\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\DbSetAttach\DbSetAttach\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\DbSetAttach\DbSetAttach\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\DbSetAttach\DbSetAttach\obj\Debug\DbSetAttach.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\DbSetAttach\DbSetAttach\obj\Debug\DbSetAttach.exe
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\DbSetAttach\DbSetAttach\obj\Debug\DbSetAttach.pdb
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\DbSetAttach\DbSetAttach\bin\Debug\DbSetAttach.exe.config
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\DbSetAttach\DbSetAttach\obj\Debug\DbSetAttach.exe
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\DbSetAttach\DbSetAttach\obj\Debug\DbSetAttach.pdb
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\DbSetAttach\DbSetAttach\bin\Debug\KTStore.mdf
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\DbSetAttach\DbSetAttach\bin\Debug\KTStore_log.ldf
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\DbSetAttach\DbSetAttach\bin\Debug\DbSetAttach.exe
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\DbSetAttach\DbSetAttach\bin\Debug\DbSetAttach.pdb
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\DbSetAttach\DbSetAttach\bin\Debug\EntityFramework.dll
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\DbSetAttach\DbSetAttach\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\DbSetAttach\DbSetAttach\bin\Debug\EntityFramework.xml
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\DbSetAttach\DbSetAttach\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\DbSetAttach\DbSetAttach\obj\Debug\DbSetAttach.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbSetAttach\DbSetAttach\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbSetAttach\DbSetAttach\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbSetAttach\DbSetAttach\bin\Debug\DbSetAttach.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbSetAttach\DbSetAttach\bin\Debug\DbSetAttach.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbSetAttach\DbSetAttach\bin\Debug\DbSetAttach.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbSetAttach\DbSetAttach\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbSetAttach\DbSetAttach\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbSetAttach\DbSetAttach\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbSetAttach\DbSetAttach\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbSetAttach\DbSetAttach\obj\Debug\DbSetAttach.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbSetAttach\DbSetAttach\obj\Debug\DbSetAttach.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbSetAttach\DbSetAttach\obj\Debug\DbSetAttach.pdb

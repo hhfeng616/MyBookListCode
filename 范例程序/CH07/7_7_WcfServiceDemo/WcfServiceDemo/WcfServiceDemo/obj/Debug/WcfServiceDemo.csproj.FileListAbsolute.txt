@@ -1,0 +1,6 @@
+c:\users\jun\documents\visual studio 2017\Projects\WcfServiceDemo\WcfServiceDemo\bin\WcfServiceDemo.dll.config
+c:\users\jun\documents\visual studio 2017\Projects\WcfServiceDemo\WcfServiceDemo\bin\WcfServiceDemo.dll
+c:\users\jun\documents\visual studio 2017\Projects\WcfServiceDemo\WcfServiceDemo\bin\WcfServiceDemo.pdb
+c:\users\jun\documents\visual studio 2017\Projects\WcfServiceDemo\WcfServiceDemo\obj\Debug\WcfServiceDemo.csprojResolveAssemblyReference.cache
+c:\users\jun\documents\visual studio 2017\Projects\WcfServiceDemo\WcfServiceDemo\obj\Debug\WcfServiceDemo.dll
+c:\users\jun\documents\visual studio 2017\Projects\WcfServiceDemo\WcfServiceDemo\obj\Debug\WcfServiceDemo.pdb

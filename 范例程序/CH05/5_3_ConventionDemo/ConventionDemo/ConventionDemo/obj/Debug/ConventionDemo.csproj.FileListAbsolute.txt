@@ -1,0 +1,21 @@
+D:\Book\EntityFramework\RC1\Example\CH05\ConventionDemo\ConventionDemo\bin\Debug\ConventionDemo.exe.config
+D:\Book\EntityFramework\RC1\Example\CH05\ConventionDemo\ConventionDemo\bin\Debug\ConventionDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH05\ConventionDemo\ConventionDemo\bin\Debug\ConventionDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH05\ConventionDemo\ConventionDemo\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\RC1\Example\CH05\ConventionDemo\ConventionDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\RC1\Example\CH05\ConventionDemo\ConventionDemo\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\RC1\Example\CH05\ConventionDemo\ConventionDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\RC1\Example\CH05\ConventionDemo\ConventionDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Book\EntityFramework\RC1\Example\CH05\ConventionDemo\ConventionDemo\obj\Debug\ConventionDemo.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\RC1\Example\CH05\ConventionDemo\ConventionDemo\obj\Debug\ConventionDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH05\ConventionDemo\ConventionDemo\obj\Debug\ConventionDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ConventionDemo\ConventionDemo\bin\Debug\ConventionDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ConventionDemo\ConventionDemo\bin\Debug\ConventionDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ConventionDemo\ConventionDemo\bin\Debug\ConventionDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ConventionDemo\ConventionDemo\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ConventionDemo\ConventionDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ConventionDemo\ConventionDemo\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ConventionDemo\ConventionDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ConventionDemo\ConventionDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ConventionDemo\ConventionDemo\obj\Debug\ConventionDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ConventionDemo\ConventionDemo\obj\Debug\ConventionDemo.pdb

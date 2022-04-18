@@ -1,0 +1,26 @@
+D:\Book\EntityFramework\RC1\Example\CH05\CodeFirstR\CodeFirstR\bin\Debug\CodeFirstR.exe.config
+D:\Book\EntityFramework\RC1\Example\CH05\CodeFirstR\CodeFirstR\obj\Debug\CodeFirstR.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\RC1\Example\CH05\CodeFirstR\CodeFirstR\bin\Debug\CodeFirstR.exe
+D:\Book\EntityFramework\RC1\Example\CH05\CodeFirstR\CodeFirstR\bin\Debug\CodeFirstR.pdb
+D:\Book\EntityFramework\RC1\Example\CH05\CodeFirstR\CodeFirstR\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\RC1\Example\CH05\CodeFirstR\CodeFirstR\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\RC1\Example\CH05\CodeFirstR\CodeFirstR\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\RC1\Example\CH05\CodeFirstR\CodeFirstR\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\RC1\Example\CH05\CodeFirstR\CodeFirstR\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Book\EntityFramework\RC1\Example\CH05\CodeFirstR\CodeFirstR\obj\Debug\CodeFirstR.exe
+D:\Book\EntityFramework\RC1\Example\CH05\CodeFirstR\CodeFirstR\obj\Debug\CodeFirstR.pdb
+D:\Book\EntityFramework\RC1\Example\CH05\CodeFirstR\CodeFirstR\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\RC1\Example\CH05\CodeFirstR\CodeFirstR\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CodeFirstR\CodeFirstR\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CodeFirstR\CodeFirstR\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CodeFirstR\CodeFirstR\bin\Debug\CodeFirstR.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CodeFirstR\CodeFirstR\bin\Debug\CodeFirstR.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CodeFirstR\CodeFirstR\bin\Debug\CodeFirstR.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CodeFirstR\CodeFirstR\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CodeFirstR\CodeFirstR\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CodeFirstR\CodeFirstR\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CodeFirstR\CodeFirstR\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CodeFirstR\CodeFirstR\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CodeFirstR\CodeFirstR\obj\Debug\CodeFirstR.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CodeFirstR\CodeFirstR\obj\Debug\CodeFirstR.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\CodeFirstR\CodeFirstR\obj\Debug\CodeFirstR.pdb

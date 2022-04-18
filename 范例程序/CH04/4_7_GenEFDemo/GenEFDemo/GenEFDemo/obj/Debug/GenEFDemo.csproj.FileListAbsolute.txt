@@ -1,0 +1,26 @@
+D:\Book\EntityFramework\RC1\Example\CH04\GenEFDemo\GenEFDemo\bin\Debug\GenEFDemo.exe.config
+D:\Book\EntityFramework\RC1\Example\CH04\GenEFDemo\GenEFDemo\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\RC1\Example\CH04\GenEFDemo\GenEFDemo\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\RC1\Example\CH04\GenEFDemo\GenEFDemo\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\RC1\Example\CH04\GenEFDemo\GenEFDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\RC1\Example\CH04\GenEFDemo\GenEFDemo\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\RC1\Example\CH04\GenEFDemo\GenEFDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\RC1\Example\CH04\GenEFDemo\GenEFDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Book\EntityFramework\RC1\Example\CH04\GenEFDemo\GenEFDemo\obj\Debug\GenEFDemo.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\RC1\Example\CH04\GenEFDemo\GenEFDemo\obj\Debug\GenEFDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH04\GenEFDemo\GenEFDemo\obj\Debug\GenEFDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH04\GenEFDemo\GenEFDemo\bin\Debug\GenEFDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH04\GenEFDemo\GenEFDemo\bin\Debug\GenEFDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\GenEFDemo\GenEFDemo\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\GenEFDemo\GenEFDemo\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\GenEFDemo\GenEFDemo\bin\Debug\GenEFDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\GenEFDemo\GenEFDemo\bin\Debug\GenEFDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\GenEFDemo\GenEFDemo\bin\Debug\GenEFDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\GenEFDemo\GenEFDemo\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\GenEFDemo\GenEFDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\GenEFDemo\GenEFDemo\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\GenEFDemo\GenEFDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\GenEFDemo\GenEFDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\GenEFDemo\GenEFDemo\obj\Debug\GenEFDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\GenEFDemo\GenEFDemo\obj\Debug\GenEFDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\GenEFDemo\GenEFDemo\obj\Debug\GenEFDemo.csprojResolveAssemblyReference.cache

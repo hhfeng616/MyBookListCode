@@ -1,0 +1,26 @@
+D:\Book\EntityFramework\RC1\Example\CH06\DbChangeTrackerDemo\DbChangeTrackerDemo\bin\Debug\DbChangeTrackerDemo.exe.config
+D:\Book\EntityFramework\RC1\Example\CH06\DbChangeTrackerDemo\DbChangeTrackerDemo\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\RC1\Example\CH06\DbChangeTrackerDemo\DbChangeTrackerDemo\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\RC1\Example\CH06\DbChangeTrackerDemo\DbChangeTrackerDemo\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\RC1\Example\CH06\DbChangeTrackerDemo\DbChangeTrackerDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\RC1\Example\CH06\DbChangeTrackerDemo\DbChangeTrackerDemo\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\RC1\Example\CH06\DbChangeTrackerDemo\DbChangeTrackerDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\RC1\Example\CH06\DbChangeTrackerDemo\DbChangeTrackerDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Book\EntityFramework\RC1\Example\CH06\DbChangeTrackerDemo\DbChangeTrackerDemo\obj\Debug\DbChangeTrackerDemo.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\RC1\Example\CH06\DbChangeTrackerDemo\DbChangeTrackerDemo\obj\Debug\DbChangeTrackerDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH06\DbChangeTrackerDemo\DbChangeTrackerDemo\obj\Debug\DbChangeTrackerDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH06\DbChangeTrackerDemo\DbChangeTrackerDemo\bin\Debug\DbChangeTrackerDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH06\DbChangeTrackerDemo\DbChangeTrackerDemo\bin\Debug\DbChangeTrackerDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbChangeTrackerDemo\DbChangeTrackerDemo\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbChangeTrackerDemo\DbChangeTrackerDemo\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbChangeTrackerDemo\DbChangeTrackerDemo\bin\Debug\DbChangeTrackerDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbChangeTrackerDemo\DbChangeTrackerDemo\bin\Debug\DbChangeTrackerDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbChangeTrackerDemo\DbChangeTrackerDemo\bin\Debug\DbChangeTrackerDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbChangeTrackerDemo\DbChangeTrackerDemo\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbChangeTrackerDemo\DbChangeTrackerDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbChangeTrackerDemo\DbChangeTrackerDemo\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbChangeTrackerDemo\DbChangeTrackerDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbChangeTrackerDemo\DbChangeTrackerDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbChangeTrackerDemo\DbChangeTrackerDemo\obj\Debug\DbChangeTrackerDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbChangeTrackerDemo\DbChangeTrackerDemo\obj\Debug\DbChangeTrackerDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\DbChangeTrackerDemo\DbChangeTrackerDemo\obj\Debug\DbChangeTrackerDemo.pdb

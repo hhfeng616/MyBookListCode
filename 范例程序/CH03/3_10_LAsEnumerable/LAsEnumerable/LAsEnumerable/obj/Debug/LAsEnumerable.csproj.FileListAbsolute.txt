@@ -1,0 +1,23 @@
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LAsEnumerable\LAsEnumerable\bin\Debug\LAsEnumerable.exe.config
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LAsEnumerable\LAsEnumerable\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LAsEnumerable\LAsEnumerable\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LAsEnumerable\LAsEnumerable\bin\Debug\LAsEnumerable.exe
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LAsEnumerable\LAsEnumerable\bin\Debug\LAsEnumerable.pdb
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LAsEnumerable\LAsEnumerable\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LAsEnumerable\LAsEnumerable\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LAsEnumerable\LAsEnumerable\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LAsEnumerable\LAsEnumerable\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LAsEnumerable\LAsEnumerable\obj\Debug\LAsEnumerable.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LAsEnumerable\LAsEnumerable\obj\Debug\LAsEnumerable.exe
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LAsEnumerable\LAsEnumerable\obj\Debug\LAsEnumerable.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LAsEnumerable\LAsEnumerable\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LAsEnumerable\LAsEnumerable\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LAsEnumerable\LAsEnumerable\bin\Debug\LAsEnumerable.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LAsEnumerable\LAsEnumerable\bin\Debug\LAsEnumerable.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LAsEnumerable\LAsEnumerable\bin\Debug\LAsEnumerable.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LAsEnumerable\LAsEnumerable\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LAsEnumerable\LAsEnumerable\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LAsEnumerable\LAsEnumerable\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LAsEnumerable\LAsEnumerable\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LAsEnumerable\LAsEnumerable\obj\Debug\LAsEnumerable.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\LAsEnumerable\LAsEnumerable\obj\Debug\LAsEnumerable.pdb

@@ -1,0 +1,25 @@
+c:\users\jun\documents\visual studio 2017\Projects\EFDemo\EFDemo\bin\Debug\KTStore.mdf
+c:\users\jun\documents\visual studio 2017\Projects\EFDemo\EFDemo\bin\Debug\KTStore_log.ldf
+c:\users\jun\documents\visual studio 2017\Projects\EFDemo\EFDemo\bin\Debug\EFDemo.exe.config
+c:\users\jun\documents\visual studio 2017\Projects\EFDemo\EFDemo\bin\Debug\EFDemo.exe
+c:\users\jun\documents\visual studio 2017\Projects\EFDemo\EFDemo\bin\Debug\EFDemo.pdb
+c:\users\jun\documents\visual studio 2017\Projects\EFDemo\EFDemo\bin\Debug\EntityFramework.dll
+c:\users\jun\documents\visual studio 2017\Projects\EFDemo\EFDemo\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\jun\documents\visual studio 2017\Projects\EFDemo\EFDemo\bin\Debug\EntityFramework.xml
+c:\users\jun\documents\visual studio 2017\Projects\EFDemo\EFDemo\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\jun\documents\visual studio 2017\Projects\EFDemo\EFDemo\bin\Debug\zh-Hans\EntityFramework.resources.dll
+c:\users\jun\documents\visual studio 2017\Projects\EFDemo\EFDemo\obj\Debug\EFDemo.csprojResolveAssemblyReference.cache
+c:\users\jun\documents\visual studio 2017\Projects\EFDemo\EFDemo\obj\Debug\EFDemo.exe
+c:\users\jun\documents\visual studio 2017\Projects\EFDemo\EFDemo\obj\Debug\EFDemo.pdb
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH01\1_1_EFDemo\EFDemo\EFDemo\bin\Debug\KTStore.mdf
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH01\1_1_EFDemo\EFDemo\EFDemo\bin\Debug\KTStore_log.ldf
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH01\1_1_EFDemo\EFDemo\EFDemo\bin\Debug\EFDemo.exe.config
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH01\1_1_EFDemo\EFDemo\EFDemo\bin\Debug\EFDemo.exe
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH01\1_1_EFDemo\EFDemo\EFDemo\bin\Debug\EFDemo.pdb
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH01\1_1_EFDemo\EFDemo\EFDemo\bin\Debug\EntityFramework.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH01\1_1_EFDemo\EFDemo\EFDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH01\1_1_EFDemo\EFDemo\EFDemo\bin\Debug\EntityFramework.xml
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH01\1_1_EFDemo\EFDemo\EFDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH01\1_1_EFDemo\EFDemo\EFDemo\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH01\1_1_EFDemo\EFDemo\EFDemo\obj\Debug\EFDemo.exe
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH01\1_1_EFDemo\EFDemo\EFDemo\obj\Debug\EFDemo.pdb

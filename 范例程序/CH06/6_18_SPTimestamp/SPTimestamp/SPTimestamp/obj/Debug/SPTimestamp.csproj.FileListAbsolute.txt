@@ -1,0 +1,23 @@
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\SPTimestamp\SPTimestamp\bin\Debug\SPTimestamp.exe.config
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\SPTimestamp\SPTimestamp\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\SPTimestamp\SPTimestamp\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\SPTimestamp\SPTimestamp\bin\Debug\SPTimestamp.exe
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\SPTimestamp\SPTimestamp\bin\Debug\SPTimestamp.pdb
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\SPTimestamp\SPTimestamp\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\SPTimestamp\SPTimestamp\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\SPTimestamp\SPTimestamp\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\SPTimestamp\SPTimestamp\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\SPTimestamp\SPTimestamp\obj\Debug\SPTimestamp.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\SPTimestamp\SPTimestamp\obj\Debug\SPTimestamp.exe
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\SPTimestamp\SPTimestamp\obj\Debug\SPTimestamp.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SPTimestamp\SPTimestamp\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SPTimestamp\SPTimestamp\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SPTimestamp\SPTimestamp\bin\Debug\SPTimestamp.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SPTimestamp\SPTimestamp\bin\Debug\SPTimestamp.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SPTimestamp\SPTimestamp\bin\Debug\SPTimestamp.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SPTimestamp\SPTimestamp\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SPTimestamp\SPTimestamp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SPTimestamp\SPTimestamp\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SPTimestamp\SPTimestamp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SPTimestamp\SPTimestamp\obj\Debug\SPTimestamp.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SPTimestamp\SPTimestamp\obj\Debug\SPTimestamp.pdb

@@ -1,0 +1,25 @@
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH03\EntitySQLDemo\EntitySQLDemo\bin\Debug\EntitySQLDemo.exe.config
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH03\EntitySQLDemo\EntitySQLDemo\bin\Debug\KTStore.mdf
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH03\EntitySQLDemo\EntitySQLDemo\bin\Debug\KTStore_log.ldf
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH03\EntitySQLDemo\EntitySQLDemo\bin\Debug\EntityFramework.dll
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH03\EntitySQLDemo\EntitySQLDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH03\EntitySQLDemo\EntitySQLDemo\bin\Debug\EntityFramework.xml
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH03\EntitySQLDemo\EntitySQLDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH03\EntitySQLDemo\EntitySQLDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH03\EntitySQLDemo\EntitySQLDemo\obj\Debug\EntitySQLDemo.csprojResolveAssemblyReference.cache
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH03\EntitySQLDemo\EntitySQLDemo\obj\Debug\EntitySQLDemo.exe
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH03\EntitySQLDemo\EntitySQLDemo\obj\Debug\EntitySQLDemo.pdb
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH03\EntitySQLDemo\EntitySQLDemo\bin\Debug\EntitySQLDemo.exe
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH03\EntitySQLDemo\EntitySQLDemo\bin\Debug\EntitySQLDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\EntitySQLDemo\EntitySQLDemo\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\EntitySQLDemo\EntitySQLDemo\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\EntitySQLDemo\EntitySQLDemo\bin\Debug\EntitySQLDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\EntitySQLDemo\EntitySQLDemo\bin\Debug\EntitySQLDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\EntitySQLDemo\EntitySQLDemo\bin\Debug\EntitySQLDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\EntitySQLDemo\EntitySQLDemo\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\EntitySQLDemo\EntitySQLDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\EntitySQLDemo\EntitySQLDemo\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\EntitySQLDemo\EntitySQLDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\EntitySQLDemo\EntitySQLDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\EntitySQLDemo\EntitySQLDemo\obj\Debug\EntitySQLDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\EntitySQLDemo\EntitySQLDemo\obj\Debug\EntitySQLDemo.pdb

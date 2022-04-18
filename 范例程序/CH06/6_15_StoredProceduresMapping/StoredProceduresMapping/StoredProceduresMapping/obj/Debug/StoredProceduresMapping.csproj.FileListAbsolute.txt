@@ -1,0 +1,36 @@
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\StoredProceduresMapping\StoredProceduresMapping\bin\Debug\StoredProceduresMapping.exe.config
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\StoredProceduresMapping\StoredProceduresMapping\bin\Debug\StoredProceduresMapping.exe
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\StoredProceduresMapping\StoredProceduresMapping\bin\Debug\StoredProceduresMapping.pdb
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\StoredProceduresMapping\StoredProceduresMapping\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\StoredProceduresMapping\StoredProceduresMapping\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\StoredProceduresMapping\StoredProceduresMapping\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\StoredProceduresMapping\StoredProceduresMapping\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\StoredProceduresMapping\StoredProceduresMapping\obj\Debug\StoredProceduresMapping.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\StoredProceduresMapping\StoredProceduresMapping\obj\Debug\StoredProceduresMapping.exe
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\StoredProceduresMapping\StoredProceduresMapping\obj\Debug\StoredProceduresMapping.pdb
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\StoredProceduresMapping\StoredProceduresMapping\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\EF_2016\EXAMPLE\CH05\StoredProceduresMapping\StoredProceduresMapping\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProceduresMapping\StoredProceduresMapping\bin\Debug\StoredProceduresMapping.exe.config
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProceduresMapping\StoredProceduresMapping\obj\Debug\StoredProceduresMapping.exe
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProceduresMapping\StoredProceduresMapping\obj\Debug\StoredProceduresMapping.pdb
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProceduresMapping\StoredProceduresMapping\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProceduresMapping\StoredProceduresMapping\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProceduresMapping\StoredProceduresMapping\bin\Debug\StoredProceduresMapping.exe
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProceduresMapping\StoredProceduresMapping\bin\Debug\StoredProceduresMapping.pdb
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProceduresMapping\StoredProceduresMapping\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProceduresMapping\StoredProceduresMapping\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProceduresMapping\StoredProceduresMapping\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProceduresMapping\StoredProceduresMapping\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH06\StoredProceduresMapping\StoredProceduresMapping\obj\Debug\StoredProceduresMapping.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProceduresMapping\StoredProceduresMapping\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProceduresMapping\StoredProceduresMapping\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProceduresMapping\StoredProceduresMapping\bin\Debug\StoredProceduresMapping.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProceduresMapping\StoredProceduresMapping\bin\Debug\StoredProceduresMapping.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProceduresMapping\StoredProceduresMapping\bin\Debug\StoredProceduresMapping.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProceduresMapping\StoredProceduresMapping\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProceduresMapping\StoredProceduresMapping\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProceduresMapping\StoredProceduresMapping\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProceduresMapping\StoredProceduresMapping\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProceduresMapping\StoredProceduresMapping\obj\Debug\StoredProceduresMapping.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProceduresMapping\StoredProceduresMapping\obj\Debug\StoredProceduresMapping.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\StoredProceduresMapping\StoredProceduresMapping\obj\Debug\StoredProceduresMapping.csprojResolveAssemblyReference.cache

@@ -1,0 +1,155 @@
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\roslyn\csc.exe
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\roslyn\System.Collections.Immutable.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\roslyn\System.Reflection.Metadata.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\roslyn\vbc.exe
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\roslyn\VBCSCompiler.exe
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\roslyn\VBCSCompiler.exe.config
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\WebFormsR.dll.config
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\WebFormsR.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\WebFormsR.pdb
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\Antlr3.Runtime.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\AspNet.ScriptManager.jQuery.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\EntityFramework.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\Microsoft.Web.Infrastructure.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\Newtonsoft.Json.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\System.Web.Optimization.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\WebGrease.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\EntityFramework.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\System.Web.Optimization.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\Antlr3.Runtime.pdb
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\Newtonsoft.Json.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\obj\Debug\WebFormsR.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\obj\Debug\WebFormsR.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH07\WebFormsR\WebFormsR\obj\Debug\WebFormsR.pdb
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\roslyn\csc.exe
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\roslyn\System.Collections.Immutable.dll
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\roslyn\System.Reflection.Metadata.dll
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\roslyn\vbc.exe
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\roslyn\VBCSCompiler.exe
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\roslyn\VBCSCompiler.exe.config
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\WebFormsR.dll.config
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\WebFormsR.dll
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\WebFormsR.pdb
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\Antlr3.Runtime.dll
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\AspNet.ScriptManager.jQuery.dll
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\EntityFramework.dll
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\Microsoft.Web.Infrastructure.dll
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\Newtonsoft.Json.dll
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\System.Web.Optimization.dll
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\WebGrease.dll
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\EntityFramework.xml
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\System.Web.Optimization.xml
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\Antlr3.Runtime.pdb
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\Newtonsoft.Json.xml
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\obj\Debug\WebFormsR.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\obj\Debug\WebFormsR.dll
+D:\Book\EntityFramework\RC1\Example\CH07\WebFormsR\WebFormsR\obj\Debug\WebFormsR.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\roslyn\csc.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\roslyn\vbc.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\WebFormsR.dll.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\WebFormsR.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\WebFormsR.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\Antlr3.Runtime.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\Newtonsoft.Json.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\System.Web.Optimization.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\WebGrease.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\System.Web.Optimization.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\Antlr3.Runtime.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\Newtonsoft.Json.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\obj\Debug\WebFormsR.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\obj\Debug\WebFormsR.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\WebFormsR\WebFormsR\obj\Debug\WebFormsR.pdb
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\roslyn\csc.exe
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\roslyn\System.Collections.Immutable.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\roslyn\System.Reflection.Metadata.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\roslyn\vbc.exe
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\roslyn\VBCSCompiler.exe
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\roslyn\VBCSCompiler.exe.config
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\WebFormsR.dll.config
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\WebFormsR.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\WebFormsR.pdb
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\Antlr3.Runtime.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\AspNet.ScriptManager.bootstrap.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\AspNet.ScriptManager.jQuery.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\EntityFramework.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\EntityFramework.SqlServer.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\Microsoft.ScriptManager.WebForms.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\Microsoft.Web.Infrastructure.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\Newtonsoft.Json.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\System.Web.Optimization.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\WebGrease.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\EntityFramework.xml
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\EntityFramework.SqlServer.xml
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\System.Web.Optimization.xml
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\Antlr3.Runtime.pdb
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\Newtonsoft.Json.xml
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\obj\Debug\WebFormsR.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH07\7_2_WebFormsR\WebFormsR\WebFormsR\obj\Debug\WebFormsR.pdb

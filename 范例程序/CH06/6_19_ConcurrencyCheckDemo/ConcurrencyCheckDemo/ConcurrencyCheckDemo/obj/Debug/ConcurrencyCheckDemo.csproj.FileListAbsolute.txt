@@ -1,0 +1,24 @@
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH06\ConcurrencyCheckDemo\ConcurrencyCheckDemo\bin\Debug\ConcurrencyCheckDemo.exe.config
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH06\ConcurrencyCheckDemo\ConcurrencyCheckDemo\bin\Debug\ConcurrencyCheckDemo.exe
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH06\ConcurrencyCheckDemo\ConcurrencyCheckDemo\bin\Debug\ConcurrencyCheckDemo.pdb
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH06\ConcurrencyCheckDemo\ConcurrencyCheckDemo\bin\Debug\EntityFramework.dll
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH06\ConcurrencyCheckDemo\ConcurrencyCheckDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH06\ConcurrencyCheckDemo\ConcurrencyCheckDemo\bin\Debug\EntityFramework.xml
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH06\ConcurrencyCheckDemo\ConcurrencyCheckDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH06\ConcurrencyCheckDemo\ConcurrencyCheckDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH06\ConcurrencyCheckDemo\ConcurrencyCheckDemo\obj\Debug\ConcurrencyCheckDemo.csprojResolveAssemblyReference.cache
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH06\ConcurrencyCheckDemo\ConcurrencyCheckDemo\obj\Debug\ConcurrencyCheckDemo.exe
+D:\Book_Script\2016_Developing\EntityFramework\Relese\Example\CH06\ConcurrencyCheckDemo\ConcurrencyCheckDemo\obj\Debug\ConcurrencyCheckDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ConcurrencyCheckDemo\ConcurrencyCheckDemo\bin\Debug\ConcurrencyCheckDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ConcurrencyCheckDemo\ConcurrencyCheckDemo\bin\Debug\ConcurrencyCheckDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ConcurrencyCheckDemo\ConcurrencyCheckDemo\bin\Debug\ConcurrencyCheckDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ConcurrencyCheckDemo\ConcurrencyCheckDemo\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ConcurrencyCheckDemo\ConcurrencyCheckDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ConcurrencyCheckDemo\ConcurrencyCheckDemo\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ConcurrencyCheckDemo\ConcurrencyCheckDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ConcurrencyCheckDemo\ConcurrencyCheckDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ConcurrencyCheckDemo\ConcurrencyCheckDemo\obj\Debug\ConcurrencyCheckDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ConcurrencyCheckDemo\ConcurrencyCheckDemo\obj\Debug\ConcurrencyCheckDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ConcurrencyCheckDemo\ConcurrencyCheckDemo\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ConcurrencyCheckDemo\ConcurrencyCheckDemo\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ConcurrencyCheckDemo\ConcurrencyCheckDemo\bin\Debug\zh-Hans\EntityFramework.resources.dll

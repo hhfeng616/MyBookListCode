@@ -1,0 +1,55 @@
+D:\Book\EntityFramework\RC1\Example\CH06\SaveChangesEx\SaveChangesDemo\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\RC1\Example\CH06\SaveChangesEx\SaveChangesDemo\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\RC1\Example\CH06\SaveChangesEx\SaveChangesDemo\bin\Debug\SaveChangesDemo.exe.config
+D:\Book\EntityFramework\RC1\Example\CH06\SaveChangesEx\SaveChangesDemo\bin\Debug\SaveChangesDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH06\SaveChangesEx\SaveChangesDemo\bin\Debug\SaveChangesDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH06\SaveChangesEx\SaveChangesDemo\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\RC1\Example\CH06\SaveChangesEx\SaveChangesDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\RC1\Example\CH06\SaveChangesEx\SaveChangesDemo\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\RC1\Example\CH06\SaveChangesEx\SaveChangesDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\RC1\Example\CH06\SaveChangesEx\SaveChangesDemo\obj\Debug\SaveChangesEX.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\RC1\Example\CH06\SaveChangesEx\SaveChangesDemo\obj\Debug\SaveChangesDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH06\SaveChangesEx\SaveChangesDemo\obj\Debug\SaveChangesDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH06\SaveChangesEx\SaveChangesDemo\obj\Debug\SaveChangesDemo.Migrations.AddMigrationAddRequire.resources
+D:\Book\EntityFramework\RC1\Example\CH06\SaveChangesEx\SaveChangesDemo\obj\Debug\SaveChangesEX.csproj.GenerateResource.Cache
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesEx\SaveChangesDemo\bin\Debug\SaveChangesDemo.exe.config
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesEx\SaveChangesDemo\obj\Debug\SaveChangesDemo.exe
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesEx\SaveChangesDemo\obj\Debug\SaveChangesDemo.pdb
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesEx\SaveChangesDemo\bin\Debug\KTStore.mdf
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesEx\SaveChangesDemo\bin\Debug\KTStore_log.ldf
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesEx\SaveChangesDemo\bin\Debug\SaveChangesDemo.exe
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesEx\SaveChangesDemo\bin\Debug\SaveChangesDemo.pdb
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesEx\SaveChangesDemo\bin\Debug\EntityFramework.dll
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesEx\SaveChangesDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesEx\SaveChangesDemo\bin\Debug\EntityFramework.xml
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesEx\SaveChangesDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesEx\SaveChangesDemo\obj\Debug\SaveChangesEX.csprojResolveAssemblyReference.cache
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesEx\SaveChangesDemo\obj\Debug\SaveChangesDemo.Migrations.AddMigrationAddRequire.resources
+D:\Book_Script\2016_Developing\EntityFramework\RC1\Example\CH06\SaveChangesEx\SaveChangesDemo\obj\Debug\SaveChangesEX.csproj.GenerateResource.Cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesEx\SaveChangesDemo\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesEx\SaveChangesDemo\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesEx\SaveChangesDemo\bin\Debug\SaveChangesDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesEx\SaveChangesDemo\bin\Debug\SaveChangesDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesEx\SaveChangesDemo\bin\Debug\SaveChangesDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesEx\SaveChangesDemo\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesEx\SaveChangesDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesEx\SaveChangesDemo\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesEx\SaveChangesDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesEx\SaveChangesDemo\obj\Debug\SaveChangesDemo.Migrations.AddMigrationAddRequire.resources
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesEx\SaveChangesDemo\obj\Debug\SaveChangesEX.csproj.GenerateResource.Cache
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesEx\SaveChangesDemo\obj\Debug\SaveChangesDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\SaveChangesEx\SaveChangesDemo\obj\Debug\SaveChangesDemo.pdb
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_7_SaveChangesEx\SaveChangesEx\SaveChangesDemo\bin\Debug\KTStore.mdf
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_7_SaveChangesEx\SaveChangesEx\SaveChangesDemo\bin\Debug\KTStore_log.ldf
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_7_SaveChangesEx\SaveChangesEx\SaveChangesDemo\bin\Debug\SaveChangesDemo.exe.config
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_7_SaveChangesEx\SaveChangesEx\SaveChangesDemo\bin\Debug\SaveChangesDemo.exe
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_7_SaveChangesEx\SaveChangesEx\SaveChangesDemo\bin\Debug\SaveChangesDemo.pdb
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_7_SaveChangesEx\SaveChangesEx\SaveChangesDemo\bin\Debug\EntityFramework.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_7_SaveChangesEx\SaveChangesEx\SaveChangesDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_7_SaveChangesEx\SaveChangesEx\SaveChangesDemo\bin\Debug\EntityFramework.xml
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_7_SaveChangesEx\SaveChangesEx\SaveChangesDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_7_SaveChangesEx\SaveChangesEx\SaveChangesDemo\obj\Debug\SaveChangesEX.csprojResolveAssemblyReference.cache
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_7_SaveChangesEx\SaveChangesEx\SaveChangesDemo\obj\Debug\SaveChangesDemo.Migrations.AddMigrationAddRequire.resources
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_7_SaveChangesEx\SaveChangesEx\SaveChangesDemo\obj\Debug\SaveChangesEX.csproj.GenerateResource.Cache
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_7_SaveChangesEx\SaveChangesEx\SaveChangesDemo\obj\Debug\SaveChangesDemo.exe
+D:\My Documents\New Books 2017\Entity Framework 实用精解\范例程序\CH06\6_7_SaveChangesEx\SaveChangesEx\SaveChangesDemo\obj\Debug\SaveChangesDemo.pdb

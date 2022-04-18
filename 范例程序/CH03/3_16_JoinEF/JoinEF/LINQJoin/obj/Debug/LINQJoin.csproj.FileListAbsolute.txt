@@ -1,0 +1,15 @@
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LINQJoin\LINQJoin\bin\Debug\LINQJoin.exe.config
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LINQJoin\LINQJoin\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LINQJoin\LINQJoin\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LINQJoin\LINQJoin\bin\Debug\LINQJoin.exe
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LINQJoin\LINQJoin\bin\Debug\LINQJoin.pdb
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LINQJoin\LINQJoin\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LINQJoin\LINQJoin\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LINQJoin\LINQJoin\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LINQJoin\LINQJoin\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LINQJoin\LINQJoin\obj\Debug\LINQJoin.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LINQJoin\LINQJoin\obj\Debug\LINQJoin.exe
+D:\Book\EntityFramework\Beta\EXAMPLE\CH03\LINQJoin\LINQJoin\obj\Debug\LINQJoin.pdb
+D:\Book\EntityFramework\RC1\Example\CH03\LINQJoin\LINQJoin\bin\Debug\LINQJoin.exe.config
+D:\Book\EntityFramework\RC1\Example\CH03\LINQJoin\LINQJoin\obj\Debug\LINQJoin.exe
+D:\Book\EntityFramework\RC1\Example\CH03\LINQJoin\LINQJoin\obj\Debug\LINQJoin.pdb

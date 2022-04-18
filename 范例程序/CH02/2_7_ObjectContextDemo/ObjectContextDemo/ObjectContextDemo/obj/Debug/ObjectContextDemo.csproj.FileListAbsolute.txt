@@ -1,0 +1,25 @@
+D:\Book\EntityFramework\RC1\Example\CH02\ObjectContextDemo\ObjectContextDemo\bin\Debug\ObjectContextDemo.exe.config
+D:\Book\EntityFramework\RC1\Example\CH02\ObjectContextDemo\ObjectContextDemo\bin\Debug\KTStore.mdf
+D:\Book\EntityFramework\RC1\Example\CH02\ObjectContextDemo\ObjectContextDemo\bin\Debug\KTStore_log.ldf
+D:\Book\EntityFramework\RC1\Example\CH02\ObjectContextDemo\ObjectContextDemo\bin\Debug\ObjectContextDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH02\ObjectContextDemo\ObjectContextDemo\bin\Debug\ObjectContextDemo.pdb
+D:\Book\EntityFramework\RC1\Example\CH02\ObjectContextDemo\ObjectContextDemo\bin\Debug\EntityFramework.dll
+D:\Book\EntityFramework\RC1\Example\CH02\ObjectContextDemo\ObjectContextDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Book\EntityFramework\RC1\Example\CH02\ObjectContextDemo\ObjectContextDemo\bin\Debug\EntityFramework.xml
+D:\Book\EntityFramework\RC1\Example\CH02\ObjectContextDemo\ObjectContextDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Book\EntityFramework\RC1\Example\CH02\ObjectContextDemo\ObjectContextDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Book\EntityFramework\RC1\Example\CH02\ObjectContextDemo\ObjectContextDemo\obj\Debug\ObjectContextDemo.csprojResolveAssemblyReference.cache
+D:\Book\EntityFramework\RC1\Example\CH02\ObjectContextDemo\ObjectContextDemo\obj\Debug\ObjectContextDemo.exe
+D:\Book\EntityFramework\RC1\Example\CH02\ObjectContextDemo\ObjectContextDemo\obj\Debug\ObjectContextDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ObjectContextDemo\ObjectContextDemo\bin\Debug\KTStore.mdf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ObjectContextDemo\ObjectContextDemo\bin\Debug\KTStore_log.ldf
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ObjectContextDemo\ObjectContextDemo\bin\Debug\ObjectContextDemo.exe.config
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ObjectContextDemo\ObjectContextDemo\bin\Debug\ObjectContextDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ObjectContextDemo\ObjectContextDemo\bin\Debug\ObjectContextDemo.pdb
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ObjectContextDemo\ObjectContextDemo\bin\Debug\EntityFramework.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ObjectContextDemo\ObjectContextDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ObjectContextDemo\ObjectContextDemo\bin\Debug\EntityFramework.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ObjectContextDemo\ObjectContextDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ObjectContextDemo\ObjectContextDemo\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ObjectContextDemo\ObjectContextDemo\obj\Debug\ObjectContextDemo.exe
+C:\Users\Jun\Documents\Visual Studio 2017\Projects\ObjectContextDemo\ObjectContextDemo\obj\Debug\ObjectContextDemo.pdb

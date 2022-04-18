@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="NSKTStoreModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Author">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Book" Relationship="Self.BookAuthor" FromRole="Author" ToRole="Book" />
+  </EntityType>
+  <EntityType Name="Book">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Pages" Type="Int32" Nullable="false" />
+    <Property Name="ISBN" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Publisher" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Author" Relationship="Self.BookAuthor" FromRole="Book" ToRole="Author" />
+  </EntityType>
+  <Association Name="BookAuthor">
+    <End Role="Author" Type="Self.Author" Multiplicity="*" />
+    <End Role="Book" Type="Self.Book" Multiplicity="*" />
+  </Association>
+  <EntityContainer Name="KTStoreEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Author" EntityType="Self.Author" />
+    <EntitySet Name="Book" EntityType="Self.Book" />
+    <AssociationSet Name="BookAuthor" Association="Self.BookAuthor">
+      <End Role="Author" EntitySet="Author" />
+      <End Role="Book" EntitySet="Book" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

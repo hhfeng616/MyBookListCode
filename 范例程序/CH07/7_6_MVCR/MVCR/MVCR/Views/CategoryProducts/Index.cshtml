@@ -1,0 +1,87 @@
+﻿@model IEnumerable<MVCR.Models.Category>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <style>
+        table {
+            border: 1px solid silver;
+            width: 600px;
+        }
+
+        td, th {
+            border: 1px solid silver;
+            text-align: left;
+            padding-left: 1em;
+        }
+
+            th:first-child, td:first-child {
+                width: 20%;
+                text-align: center;
+            }
+
+            th:last-child, td:last-child {
+                width: 20%;
+                text-align: right;
+                padding-right: 1em;
+            }
+    </style>
+</head>
+<body>
+    <div>
+        <form method="post">
+
+            选择商品分类　<select id="cid" name="cid" onchange="this.form.submit()">
+
+                @if (Model != null)
+                {
+                    foreach (var category in Model)
+                    {
+                        if (ViewBag.cid == -1)
+                        {
+                            <option value=@category.Id>@category.Name</option>
+                        }
+                        else
+                        {
+                            string selected = "";
+                            if (ViewBag.cid == category.Id)
+                            {
+                                selected = "selected";
+                            }
+                            <option value=@category.Id @selected>@category.Name</option>
+                        }
+
+                    }
+                }
+            </select>
+            <div style="margin:1em;">
+                @{
+
+                    if (ViewBag.cid > 0)
+                    {
+
+
+                        var products = Model.Where(c => c.Id == ViewBag.cid).First().Product;
+
+                        if (products != null)
+                        {
+                            Html.RenderPartial("_CProducts", products);
+                        }
+                    }
+                }
+
+
+
+            </div>
+
+
+        </form>
+    </div>
+</body>
+</html>
